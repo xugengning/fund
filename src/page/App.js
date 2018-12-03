@@ -22,6 +22,8 @@ import History from './myPage/History'
 import Save from './myPage/Save'
 import HistoryDetail from './myPage/HistoryDetail'
 import SecurityCalculator from './security/SecurityCalculator'
+import Location from './location/Location'
+import WorkPlace from './location/WorkPlace'
 
 const HomeStack = createStackNavigator({
   Home: {
@@ -100,6 +102,18 @@ const HomeStack = createStackNavigator({
     screen: SecurityCalculator,
     navigationOptions: {
       title: "社保计算器"
+    }
+  },
+  Location: {
+    screen: Location,
+    navigationOptions: {
+      title: "定位"
+    }
+  },
+  WorkPlace: {
+    screen: WorkPlace,
+    navigationOptions: {
+      title: "业务办理地点"
     }
   },
 }, {

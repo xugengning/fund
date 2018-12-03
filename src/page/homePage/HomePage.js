@@ -74,7 +74,7 @@ export default class HomePage extends Component {
           icon: "ios-calendar",
           color: "#0068b6",
           size: 36,
-          target: "MyFund",
+          target: "WorkPlace",
         },
         {
           name: "我的",
