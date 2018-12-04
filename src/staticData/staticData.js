@@ -429,4 +429,1187 @@ module.exports = {
       "report": "<div class=\"newsDetialTxt\">\n        \t<p align=\"justify\">\u3000\u3000\u4e3a\u7f13\u89e3\u6211\u5e02\u4eba\u624d\u4f4f\u623f\u56f0\u96be\uff0c\u6539\u5584\u4eba\u624d\u5c45\u4f4f\u6761\u4ef6\uff0c\u589e\u5f3a\u4eba\u624d\u5438\u5f15\u529b\uff0c\u5e02\u59d4\u5e02\u653f\u5e9c\u5236\u5b9a\u4e86\u300a\u5173\u4e8e\u5b8c\u5584\u4eba\u624d\u4f4f\u623f\u5236\u5ea6\u7684\u82e5\u5e72\u63aa\u65bd\u300b\uff08\u4ee5\u4e0b\u7b80\u79f0\u201c\u300a\u82e5\u5e72\u63aa\u65bd\u300b\u201d\uff09\uff0c\u73b0\u5df2\u53d1\u5e03\u5b9e\u65bd\uff0c\u4e3a\u4fbf\u4e8e\u793e\u4f1a\u5e7f\u6cdb\u77e5\u6653\u548c\u6df1\u5165\u4e86\u89e3\u300a\u82e5\u5e72\u63aa\u65bd\u300b\u7684\u6709\u5173\u5185\u5bb9\uff0c\u73b0\u5c06\u6709\u5173\u60c5\u51b5\u4ecb\u7ecd\u5982\u4e0b\uff1a</p>\n<p align=\"justify\">\u3000\u3000\u4e00\u3001\u4e3a\u4ec0\u4e48\u8981\u5236\u5b9a\u300a\u82e5\u5e72\u63aa\u65bd\u300b</p>\n<p align=\"justify\">\u3000\u3000\u9996\u5148\uff0c\u662f\u8d2f\u5f7b\u843d\u5b9e\u5e02\u59d4\u5e02\u653f\u5e9c\u4eba\u624d\u4f18\u5148\u53d1\u5c55\u6218\u7565\u7684\u9700\u8981\u3002\u8fd1\u5e74\u6765\uff0c\u56fd\u5bb6\u3001\u7701\u5e02\u9ad8\u5ea6\u91cd\u89c6\u4eba\u624d\u5de5\u4f5c\uff0c\u4eba\u624d\u5df2\u7ecf\u6210\u4e3a\u7ecf\u6d4e\u793e\u4f1a\u53d1\u5c55\u7684\u7b2c\u4e00\u8d44\u6e90\u3002\u4e2d\u5171\u4e2d\u592e\u5370\u53d1\u4e86\u300a\u5173\u4e8e\u6df1\u5316\u4eba\u624d\u53d1\u5c55\u4f53\u5236\u673a\u5236\u6539\u9769\u7684\u610f\u89c1\u300b\uff0c\u6307\u51fa\u4eba\u624d\u53d1\u5c55\u4f53\u5236\u673a\u5236\u6539\u9769\u662f\u5168\u9762\u6df1\u5316\u6539\u9769\u7684\u91cd\u8981\u7ec4\u6210\u90e8\u5206\u3002\u5e7f\u4e1c\u7701\u901a\u8fc7\u5b9e\u65bd\u201c\u73e0\u6c5f\u4eba\u624d\u8ba1\u5212\u201d\u5927\u529b\u5f15\u8fdb\u521b\u65b0\u521b\u4e1a\u56e2\u961f\u548c\u9886\u519b\u4eba\u624d\u3002\u5e02\u59d4\u5e02\u653f\u5e9c\u5370\u53d1\u4e86\u300a\u5173\u4e8e\u4fc3\u8fdb\u4eba\u624d\u4f18\u5148\u53d1\u5c55\u7684\u82e5\u5e72\u63aa\u65bd\u300b\uff0c\u660e\u786e\u4e86\u4eba\u624d\u4f18\u5148\u53d1\u5c55\u7684\u6218\u7565\u51b3\u7b56\u3002\u9a6c\u5174\u745e\u4e66\u8bb0\u4e5f\u660e\u786e\u8868\u793a\u201c\u6df1\u5733\u6b63\u5904\u4e8e\u9ad8\u4f4d\u8fc7\u574e\u7684\u53d1\u5c55\u9636\u6bb5\uff0c\u8981\u5b9e\u73b0\u2018\u9ad8\u4f4d\u8fc7\u574e\u2019\uff0c\u6839\u672c\u4e0a\u5fc5\u987b\u5148\u8fc7\u4eba\u624d\u5173\uff0c\u4eca\u5929\u7684\u4e2d\u56fd\u3001\u4eca\u5929\u7684\u6df1\u5733\u5b9e\u9645\u4e0a\u906d\u9047\u7684\u662f\u4e00\u573a\u5168\u7403\u4eba\u624d\u4e89\u593a\u6218\uff0c\u8c01\u62a2\u5360\u4e86\u4eba\u624d\u6218\u7565\u7684\u5236\u9ad8\u70b9\uff0c\u8c01\u5c31\u4e00\u5b9a\u80fd\u7acb\u4e8e\u4e0d\u8d25\u4e4b\u5730\u3002\u201d\u300a\u82e5\u5e72\u63aa\u65bd\u300b\u6b63\u662f\u4ee5\u4f4f\u623f\u4e3a\u6293\u624b\uff0c\u662f\u5168\u9762\u63a8\u884c\u6211\u5e02\u4eba\u624d\u4f18\u5148\u53d1\u5c55\u6218\u7565\u7684\u91cd\u8981\u7ec4\u6210\u90e8\u5206\u3002</p>\n<p align=\"justify\">\u3000\u3000\u5176\u6b21\uff0c\u662f\u901a\u8fc7\u4f9b\u7ed9\u4fa7\u7ed3\u6784\u6027\u6539\u9769\u964d\u4f4e\u4eba\u624d\u5c45\u4f4f\u6210\u672c\u7684\u9700\u8981\u3002\u8fd1\u5e74\u6765\u5e7f\u5927\u5e02\u6c11\u5c45\u4f4f\u6210\u672c\u4e0d\u65ad\u589e\u52a0\uff0c\u4f4f\u623f\u4f9b\u9700\u77db\u76fe\u65e5\u76ca\u7a81\u51fa\u3002\u9762\u5bf9\u9ad8\u623f\u4ef7\uff0c\u6211\u5e02\u5404\u4f01\u4e8b\u4e1a\u5355\u4f4d\u5f15\u8fdb\u548c\u7559\u4f4f\u4eba\u624d\u7684\u56f0\u96be\u548c\u538b\u529b\u4e0e\u65e5\u4ff1\u589e\u3002\u6b64\u5916\uff0c\u9884\u8ba1\u5728\u201c\u5341\u4e09\u4e94\u201d\u671f\u95f4\uff0c\u5168\u5e02\u4eba\u624d\u5bf9\u4f4f\u623f\u7684\u9700\u6c42\u5c06\u9ad8\u8fbe51\u4e07\u5957\uff0c\u4f9b\u9700\u77db\u76fe\u5341\u5206\u7a81\u51fa\uff0c\u56e0\u6b64\uff0c\u52a0\u5f3a\u4f4f\u623f\u7684\u4f9b\u7ed9\u4fa7\u7ed3\u6784\u6027\u6539\u9769\uff0c\u5c06\u4eba\u624d\u4f4f\u623f\u4f5c\u4e3a\u4e13\u9879\u653f\u7b56\u4e88\u4ee5\u5f3a\u529b\u63a8\u8fdb\uff0c\u4fc3\u8fdb\u4eba\u624d\u5728\u6df1\u5b89\u5c45\u4e50\u4e1a\u5df2\u5341\u5206\u8feb\u5207\uff0c\u4e5f\u5341\u5206\u5fc5\u8981\u3002</p>\n<p align=\"justify\">\u3000\u3000\u7b2c\u4e09\uff0c\u662f\u5b8c\u5584\u73b0\u884c\u4eba\u624d\u4f4f\u623f\u5236\u5ea6\uff0c\u52a0\u5927\u4eba\u624d\u5b89\u5c45\u653f\u7b56\u529b\u5ea6\u7684\u9700\u8981\u30022010\u5e74\u4ee5\u6765\uff0c\u6211\u5e02\u901a\u8fc7\u5927\u529b\u5b9e\u65bd\u4eba\u624d\u5b89\u5c45\u653f\u7b56\uff0c\u79df\u552e\u8865\u76f8\u7ed3\u5408\uff0c\u5171\u60e0\u53ca\u4eba\u624d\u7ea634\u4e07\u4eba\u3002\u4f46\u4e5f\u8fd8\u5b58\u5728\u4e00\u4e9b\u4e0d\u8db3\uff1a\u6bd4\u5982\u8bf4\uff0c\u4eba\u624d\u8ba4\u5b9a\u4e3b\u4f53\u3001\u5b89\u5c45\u653f\u7b56\u5b9e\u65bd\u4e3b\u4f53\u6bd4\u8f83\u5355\u4e00\uff0c\u672a\u5145\u5206\u53d1\u6325\u5e02\u573a\u7684\u80fd\u52a8\u4f5c\u7528\u3002\u6b64\u5916\uff0c\u4eba\u624d\u5b89\u5c45\u653f\u7b56\u529b\u5ea6\u660e\u663e\u4e0d\u8db3,\u6bd4\u5982\uff0c\u6309\u7167\u73b0\u884c\u7684\u4fdd\u969c\u6027\u4f4f\u623f\u7684\u6807\u51c6\uff0c\u4eba\u624d\u4f4f\u623f\u901a\u5e38\u4e3a65\u5e73\u65b9\u7c73\u4ee5\u4e0b\u6237\u578b\uff0c\u96be\u4ee5\u6ee1\u8db3\u4eba\u624d\u591a\u5c42\u6b21\u7684\u4f4f\u623f\u9700\u6c42\u3002</p>\n<p align=\"justify\">\u3000\u3000\u4e8c\u3001\u300a\u82e5\u5e72\u63aa\u65bd\u300b\u7684\u4e3b\u8981\u653f\u7b56\u770b\u70b9\u6709\u54ea\u4e9b</p>\n<p align=\"justify\">\u3000\u3000\u300a\u82e5\u5e72\u63aa\u65bd\u300b\u517125\u6761\uff0c\u5206\u4e3a\u521b\u65b0\u548c\u5b8c\u5584\u4eba\u624d\u4f4f\u623f\u5236\u5ea6\u9876\u5c42\u8bbe\u8ba1\u3001\u52a0\u5927\u4eba\u624d\u4f4f\u623f\u5efa\u8bbe\u548c\u4f9b\u5e94\u529b\u5ea6\u3001\u5efa\u7acb\u5065\u5168\u4eba\u624d\u4f4f\u623f\u5de5\u4f5c\u4fdd\u969c\u673a\u5236\u4e09\u5927\u90e8\u5206\uff0c\u5176\u4e2d\u4e3b\u8981\u5305\u62ec\u4e86\u516d\u5927\u653f\u7b56\u521b\u65b0\u70b9\uff0c\u53ef\u4ee5\u7b80\u5355\u7684\u7528\u516d\u4e2a\u5173\u952e\u8bcd\u6765\u8bf4\u660e\uff1a</p>\n<p align=\"justify\">\u3000\u3000\u2014\u2014\u653f\u7b56\u70b9\u4e00\uff1a\u53cc\u8f68\u5e76\u884c\u3002\u4ece\u4f9b\u7ed9\u4fa7\u53d1\u529b\uff0c\u8c03\u6574\u4eba\u624d\u4f4f\u623f\u3001\u4fdd\u969c\u6027\u4f4f\u623f\u548c\u666e\u901a\u5546\u54c1\u623f\u7684\u4f9b\u5e94\u7ed3\u6784\uff0c\u5b9e\u73b0\u4eba\u624d\u4f4f\u623f\u4e0e\u4fdd\u969c\u6027\u4f4f\u623f\u53cc\u8f68\u5e76\u884c\u3002</p>\n<p align=\"justify\">\u3000\u3000\u4eba\u624d\u4f4f\u623f\u5173\u7cfb\u5230\u6df1\u5733\u957f\u8fdc\u53d1\u5c55\u5927\u8ba1\u3002\u300a\u82e5\u5e72\u63aa\u65bd\u300b\u7684\u4e00\u4e2a\u6838\u5fc3\u5185\u5bb9\u5c31\u662f\u5c06\u4eba\u624d\u4f4f\u623f\u4ece\u73b0\u6709\u7684\u4f4f\u623f\u4fdd\u969c\u4f53\u7cfb\u4e2d\u76f8\u5bf9\u5206\u79bb\uff0c\u5e76\u7ed3\u5408\u4eba\u624d\u7fa4\u4f53\u7684\u591a\u5143\u5316\u9700\u6c42\u52a0\u4ee5\u5b8c\u5584\uff0c\u5f62\u6210\u9762\u5411\u4eba\u624d\u91cf\u8eab\u5b9a\u505a\u4e14\u5177\u6709\u653f\u7b56\u4f18\u60e0\u6027\u8d28\u7684\u4f4f\u623f\uff0c\u4ece\u800c\u6784\u5efa\u4eba\u624d\u4f4f\u623f\u4e0e\u4fdd\u969c\u6027\u4f4f\u623f\u53cc\u8f68\u5e76\u884c\u7684\u516c\u5171\u4f4f\u623f\u4f53\u7cfb\u3002\u5728\u653f\u7b56\u5b9a\u4f4d\u65b9\u9762\uff0c\u57fa\u672c\u4f4f\u623f\u4fdd\u969c\u662f\u653f\u5e9c\u63d0\u4f9b\u7684\u4e00\u9879\u57fa\u672c\u516c\u5171\u670d\u52a1\uff0c\u5c5e\u4e8e\u201c\u4fdd\u57fa\u672c\u201d\u7684\u8303\u7574\uff0c\u800c\u4eba\u624d\u5b89\u5c45\u5219\u662f\u8d2f\u5f7b\u4eba\u624d\u4f18\u5148\u53d1\u5c55\u6218\u7565\u7684\u4e00\u9879\u6fc0\u52b1\u653f\u7b56\uff0c\u76ee\u7684\u5728\u4e8e\u901a\u8fc7\u5438\u5f15\u548c\u7559\u4f4f\u4eba\u624d\uff0c\u63d0\u5347\u57ce\u5e02\u7efc\u5408\u7ade\u4e89\u529b\u548c\u957f\u671f\u53d1\u5c55\u9a71\u52a8\u529b\uff0c\u653f\u7b56\u539f\u610f\u66f4\u591a\u5c5e\u4e8e\u201c\u4fc3\u53d1\u5c55\u201d\u7684\u8303\u7574\u3002\u4ece\u53e6\u4e00\u4e2a\u65b9\u9762\u6765\u770b\uff0c\u5b8c\u5584\u4eba\u624d\u4f4f\u623f\u5236\u5ea6\uff0c\u89e3\u51b3\u4eba\u624d\u5bb6\u5ead\u7684\u4f4f\u623f\u56f0\u96be\uff0c\u5ba2\u89c2\u4e0a\u4e5f\u4f53\u73b0\u4e86\u4e2d\u592e\u5728\u4f4f\u623f\u4fdd\u969c\u548c\u623f\u5730\u4ea7\u8c03\u63a7\u65b9\u9762\u201c\u56e0\u57ce\u65bd\u7b56\u3001\u5206\u7c7b\u6307\u5bfc\u201d\u7684\u539f\u5219\u7cbe\u795e\uff0c\u6709\u5229\u4e8e\u5927\u5e45\u63d0\u5347\u6211\u5e02\u516c\u5171\u4f4f\u623f\u4f9b\u7ed9\u80fd\u529b\uff0c\u6709\u5229\u4e8e\u964d\u4f4e\u4f01\u4e1a\u7528\u4eba\u6210\u672c\u3001\u7f13\u89e3\u4eba\u624d\u4f4f\u623f\u6d88\u8d39\u538b\u529b\uff0c\u6709\u5229\u4e8e\u6211\u5e02\u4ea7\u4e1a\u8f6c\u578b\u5347\u7ea7\u548c\u7ecf\u6d4e\u793e\u4f1a\u7684\u53ef\u6301\u7eed\u53d1\u5c55\u3002</p>\n<p align=\"justify\">\u3000\u3000\u2014\u2014\u653f\u7b56\u70b9\u4e8c\uff1a\u529b\u5ea6\u7a7a\u524d\u3002\u4eba\u624d\u4f4f\u623f\u7684\u5efa\u8bbe\u548c\u4f9b\u5e94\u529b\u5ea6\u524d\u6240\u672a\u6709\uff0c\u521d\u6b65\u6784\u5efa\u5e76\u5f62\u6210\u4e86\u591a\u6e20\u9053\u7b79\u96c6\u5efa\u8bbe\u4eba\u624d\u4f4f\u623f\u7684\u4f53\u5236\u673a\u5236\u3002</p>\n<p align=\"justify\">\u3000\u3000\u201c\u5341\u4e09\u4e94\u201d\u671f\u95f4\uff0c\u6211\u5e02\u65b0\u7b79\u96c6\u5efa\u8bbe\u4fdd\u969c\u6027\u4f4f\u623f\u548c\u4eba\u624d\u4f4f\u623f40\u4e07\u5957\uff0c\u51e0\u4e4e\u76f8\u5f53\u4e8e\u7279\u533a\u6210\u7acb30\u591a\u5e74\u4ee5\u6765\u5efa\u8bbe\u7684\u653f\u7b56\u6027\u4f4f\u623f\u603b\u548c\uff0c\u4e5f\u8d85\u51fa\u4e86\u201c\u5341\u4e8c\u4e94\u201d\u671f\u95f4\u5168\u5e02\u5f00\u5de5\u7684\u5546\u54c1\u623f\u6570\u91cf\uff0835.7\u4e07\u5957\uff09\u300240\u4e07\u5957\u4f4f\u623f\u4e2d\uff0c\u4eba\u624d\u4f4f\u623f\u5c06\u4e0d\u5c11\u4e8e30\u4e07\u5957\u3002\u4e3a\u4e86\u987a\u5229\u5b8c\u6210\u8fd9\u4e00\u8270\u5de8\u4efb\u52a1\uff0c\u300a\u82e5\u5e72\u63aa\u65bd\u300b\u63d0\u51fa\u4e869\u6761\u63aa\u65bd\uff0c\u5bf9\u4eba\u624d\u4f4f\u623f\u591a\u6e20\u9053\u7b79\u96c6\u5efa\u8bbe\u8fdb\u884c\u4e86\u5168\u65b9\u4f4d\u5e03\u5c40\uff0c\u5982\u6bcf\u5e74\u65b0\u589e\u4f9b\u5e94\u7684\u5c45\u4f4f\u7528\u5730\u4e2d\uff0c\u4eba\u624d\u4f4f\u623f\u548c\u4fdd\u969c\u6027\u4f4f\u623f\u7528\u5730\u9762\u79ef\u5e94\u5f53\u4e0d\u5c11\u4e8e\u603b\u7528\u5730\u9762\u79ef\u768460%\uff1b\u62db\u62cd\u6302\u51fa\u8ba9\u7684\u5546\u54c1\u4f4f\u5b85\u9879\u76ee\u7528\u5730\u5e94\u914d\u5efa\u4e0d\u5c11\u4e8e\u603b\u5efa\u7b51\u9762\u79ef10%\u7684\u4eba\u624d\u4f4f\u623f\uff1b\u5145\u5206\u5229\u7528\u5730\u94c1\u3001\u516c\u4ea4\u573a\u7ad9\u7b49\u516c\u5171\u8bbe\u65bd\u4e0a\u76d6\u3001\u57ce\u5e02\u66f4\u65b0\u548c\u68da\u6237\u533a\u6539\u9020\u9879\u76ee\u914d\u5efa\u4eba\u624d\u4f4f\u623f;\u5927\u529b\u6316\u6398\u793e\u4f1a\u5b58\u91cf\u4f4f\u623f\u8d44\u6e90\u7b49\uff0c\u6b64\u5916\uff0c\u8fd8\u521b\u65b0\u51fa\u8ba9\u6a21\u5f0f\uff0c\u5728\u62db\u62cd\u6302\u8fc7\u7a0b\u4e2d\u5b9e\u884c\u7ade\u5730\u4ef7\u4e0e\u7ade\u4eba\u624d\u4f4f\u623f\u914d\u5efa\u91cf\u76f8\u7ed3\u5408\uff0c\u5373\u7ade\u5730\u4ef7\u8fbe\u5230\u4e00\u5b9a\u7a0b\u5ea6\u540e\uff0c\u8f6c\u4e3a\u7ade\u4eba\u624d\u4f4f\u623f\u914d\u5efa\u6bd4\u4f8b\u3002</p>\n<p align=\"justify\">\u3000\u3000\u2014\u2014\u653f\u7b56\u70b9\u4e09\uff1a\u5f3a\u533a\u653e\u6743\u3002\u79ef\u6781\u843d\u5b9e\u5e02\u59d4\u5e02\u653f\u5e9c\u7684\u6539\u9769\u90e8\u7f72\uff0c\u5411\u57fa\u5c42\u653e\u6743\u3001\u5411\u4f01\u4e1a\u653e\u6743\u3001\u5411\u793e\u4f1a\u653e\u6743\uff0c\u5145\u5206\u8c03\u52a8\u5404\u65b9\u9762\u5efa\u8bbe\u7b79\u96c6\u4eba\u624d\u4f4f\u623f\u7684\u79ef\u6781\u6027\u3002</p>\n<p align=\"justify\">\u3000\u3000\u5728\u6b64\u6b21\u8d77\u8349\u300a\u82e5\u5e72\u63aa\u65bd\u300b\u7684\u8fc7\u7a0b\u4e2d\uff0c\u6211\u4eec\u5168\u9762\u8d2f\u5f7b\u4e86\u5e02\u59d4\u5e02\u653f\u5e9c\u5173\u4e8e\u5f3a\u533a\u653e\u6743\u7684\u6539\u9769\u601d\u8def\uff0c\u5728\u5168\u5e02\u7edf\u4e00\u57fa\u672c\u89c4\u5219\u7684\u57fa\u7840\u4e0a\uff0c\u5728\u4eba\u624d\u8ba4\u5b9a\u3001\u5efa\u8bbe\u6807\u51c6\u3001\u5206\u914d\u89c4\u5219\u7b49\u65b9\u9762\u5145\u5206\u8d4b\u4e88\u4e86\u5404\u533a\u653f\u5e9c\u3001\u884c\u4e1a\u4e3b\u7ba1\u90e8\u95e8\u3001\u4f01\u4e8b\u4e1a\u5355\u4f4d\u7b49\u5efa\u8bbe\u4e3b\u4f53\u548c\u7528\u4eba\u4e3b\u4f53\u7684\u7075\u6d3b\u81ea\u4e3b\u6743\uff0c\u5411\u57fa\u5c42\u653f\u5e9c\u653e\u6743\u3001\u5411\u7528\u4eba\u4e3b\u4f53\u653e\u6743\u3002\u51e1\u662f\u884c\u653f\u90e8\u95e8\u5e94\u5f53\u4e0b\u653e\u7684\u6743\u529b\u5168\u90fd\u4e0b\u653e\uff0c\u51e1\u662f\u7528\u4eba\u5355\u4f4d\u53ef\u4ee5\u81ea\u5df1\u51b3\u5b9a\u7684\u4e8b\u60c5\u5168\u90fd\u7531\u7528\u4eba\u5355\u4f4d\u51b3\u5b9a\uff0c\u4e0d\u4ec5\u5404\u533a\u653f\u5e9c\u53ef\u4ee5\u5236\u5b9a\u5dee\u5f02\u5316\u7684\u4eba\u624d\u8ba4\u5b9a\u653f\u7b56\uff0c\u800c\u4e14\u4f01\u4e8b\u4e1a\u5355\u4f4d\u5229\u7528\u81ea\u6709\u7528\u5730\u548c\u81ea\u7b79\u8d44\u91d1\u5efa\u8bbe\u7684\u4eba\u624d\u4f4f\u623f\uff0c\u5176\u5efa\u8bbe\u6807\u51c6\u3001\u79df\u91d1\u6807\u51c6\u4e43\u81f3\u5206\u914d\u89c4\u5219\u8fd8\u53ef\u4ee5\u9002\u5f53\u653e\u5bbd\u3001\u81ea\u4e3b\u51b3\u5b9a\uff0c\u4ece\u800c\u771f\u6b63\u53d1\u6325\u57fa\u5c42\u653f\u5e9c\u548c\u7528\u4eba\u5355\u4f4d\u5728\u4eba\u624d\u5438\u5f15\u4e2d\u7684\u4e3b\u5bfc\u4f5c\u7528\u3002</p>\n<p align=\"justify\">\u3000\u3000\u540c\u65f6\uff0c\u4e3a\u4e86\u8c03\u52a8\u5404\u65b9\u529b\u91cf\u5efa\u8bbe\u7b79\u96c6\u4eba\u624d\u4f4f\u623f\u7684\u79ef\u6781\u6027\uff0c\u300a\u82e5\u5e72\u63aa\u65bd\u300b\u8fd8\u79ef\u6781\u57f9\u80b2\u4f4f\u623f\u79df\u8d41\u5e02\u573a\uff0c\u9f13\u52b1\u623f\u5730\u4ea7\u5f00\u53d1\u4f01\u4e1a\u7b49\u5e02\u573a\u4e3b\u4f53\u5171\u540c\u53c2\u4e0e\u4eba\u624d\u4f4f\u623f\u7684\u5efa\u8bbe\u8fd0\u8425\uff0c\u9f13\u52b1\u4f01\u4e1a\u5c06\u81ea\u6709\u5546\u4e1a\u3001\u529e\u516c\u7528\u623f\u3001\u5bbf\u820d\u7b49\u6539\u9020\u4e3a\u79df\u8d41\u578b\u4eba\u624d\u4f4f\u623f\uff0c\u6240\u5728\u533a\u653f\u5e9c\u5c06\u4f1a\u7ed9\u4e88\u9002\u5f53\u7684\u6539\u9020\u548c\u8fd0\u8425\u8d44\u91d1\u8865\u8d34\u3002</p>\n<p align=\"justify\">\u3000\u3000\u2014\u2014\u653f\u7b56\u70b9\u56db\uff1a\u5c01\u95ed\u8fd0\u4f5c\u3002\u5efa\u7acb\u5c01\u95ed\u8fd0\u4f5c\u3001\u5185\u90e8\u6d41\u8f6c\u673a\u5236\uff0c\u66f4\u597d\u5730\u4f53\u73b0\u4eba\u624d\u4f4f\u623f\u7684\u5b89\u5c45\u5c5e\u6027\uff0c\u4fc3\u8fdb\u6211\u5e02\u4eba\u624d\u4f4f\u623f\u53ef\u6301\u7eed\u53d1\u5c55\u3002</p>\n<p align=\"justify\">\u3000\u3000\u5b9e\u65bd\u4eba\u624d\u4f4f\u623f\u5c01\u95ed\u6d41\u8f6c\u5236\u5ea6\u65e2\u662f\u6df1\u5733\u5e02\u60c5\u7684\u8feb\u5207\u9700\u8981\uff0c\u4e5f\u662f\u56fd\u9645\u7ecf\u9a8c\u7684\u79d1\u5b66\u501f\u9274\u3002\u6df1\u5733\u662f\u571f\u5730\u8d44\u6e90\u6781\u5176\u7a00\u7f3a\u7684\u57ce\u5e02\uff0c\u4f4f\u623f\u4f9b\u9700\u77db\u76fe\u7a81\u51fa\uff0c\u8fd9\u51b3\u5b9a\u4e86\u4eba\u624d\u4f4f\u623f\u4e5f\u5fc5\u7136\u5c5e\u4e8e\u7a00\u7f3a\u8d44\u6e90\u3002\u4eba\u624d\u4f4f\u623f\u4e0d\u5f97\u8f6c\u53d8\u4e3a\u5546\u54c1\u623f\u4e0a\u5e02\u6d41\u8f6c\uff0c\u53ef\u4ee5\u675c\u7edd\u901a\u8fc7\u4eba\u624d\u4f4f\u623f\u725f\u53d6\u66b4\u5229\uff0c\u4f7f\u5f97\u4eba\u624d\u4f4f\u623f\u66f4\u597d\u7684\u4f53\u73b0\u5b89\u5c45\u5c5e\u6027\uff0c\u540c\u65f6\u4e5f\u80fd\u591f\u5b9e\u73b0\u6211\u5e02\u4eba\u624d\u4f4f\u623f\u201c\u53ea\u589e\u4e0d\u51cf\u201d\uff0c\u5145\u5206\u53d1\u6325\u5176\u4f4f\u623f\u84c4\u6c34\u6c60\u6548\u5e94\u3002</p>\n<p align=\"justify\">\u3000\u3000\u2014\u2014\u653f\u7b56\u70b9\u4e94\uff1a\u7edf\u4e00\u5e73\u53f0\u3002\u52a0\u5feb\u5efa\u7acb\u5168\u5e02\u4eba\u624d\u4f4f\u623f\u7edf\u4e00\u4fe1\u606f\u5e73\u53f0\uff0c\u5b9e\u73b0\u4eba\u624d\u5b89\u5c45\u5168\u8303\u56f4\u3001\u5168\u6d41\u7a0b\u76d1\u7ba1\uff0c\u9632\u6b62\u91cd\u590d\u4eab\u53d7\u516c\u5171\u8d44\u6e90\u3002</p>\n<p align=\"justify\">\u3000\u3000\u300a\u82e5\u5e72\u63aa\u65bd\u300b\u660e\u786e\u4e86\u6240\u6709\u4eba\u624d\u4f4f\u623f\uff0c\u65e0\u8bba\u662f\u5e02\u672c\u7ea7\u5efa\u8bbe\u7b79\u96c6\u7684\uff0c\u8fd8\u662f\u5404\u533a\u653f\u5e9c\u6216\u8005\u6709\u5173\u4f01\u4e1a\u5355\u4f4d\u5efa\u8bbe\u7b79\u96c6\u7684\uff0c\u4ece\u7eb3\u5165\u8ba1\u5212\u3001\u7acb\u9879\u62a5\u5efa\u3001\u4f9b\u5e94\u5206\u914d\u3001\u8fd0\u8425\u7ba1\u7406\u90fd\u8981\u5728\u5168\u5e02\u7edf\u4e00\u7684\u4fe1\u606f\u5e73\u53f0\u5177\u4f53\u5b9e\u65bd\uff0c\u5e76\u4e14\u8981\u6c42\u4f4f\u5efa\u3001\u89c4\u571f\u3001\u4eba\u793e\u7b49\u90e8\u95e8\u8981\u52a0\u5f3a\u534f\u540c\u914d\u5408\u3001\u52a8\u6001\u7ba1\u7406\uff0c\u5b9e\u73b0\u4eba\u624d\u4f4f\u623f\u4ea7\u6743\u767b\u8bb0\u3001\u4eba\u624d\u8ba4\u5b9a\u7b49\u4fe1\u606f\u4e92\u8054\u4e92\u901a\uff0c\u5728\u6b64\u57fa\u7840\u4e0a\uff0c\u6240\u6709\u4eba\u624d\u4f4f\u623f\u4ece\u54ea\u91cc\u6765\u3001\u5230\u54ea\u91cc\u53bb\u3001\u5206\u914d\u7ed9\u8c01\u4e86\u3001\u7531\u8c01\u8fdb\u884c\u7ba1\u7406\uff0c\u90fd\u5c06\u5168\u8fc7\u7a0b\u53ef\u8ffd\u6eaf\u3001\u53ef\u6838\u67e5\uff0c\u4ece\u800c\u5efa\u7acb\u4eba\u624d\u4f4f\u623f\u201c\u5168\u5e02\u4e00\u76d8\u68cb\u201d\u7684\u673a\u5236\uff0c\u9632\u6b62\u51fa\u73b0\u591a\u5934\u8d2d\u4e70\u3001\u79df\u8d41\u4eba\u624d\u4f4f\u623f\u7684\u8fdd\u89c4\u884c\u4e3a\u3002</p>\n<p align=\"justify\">\u3000\u3000\u2014\u2014\u653f\u7b56\u70b9\u516d\uff1a\u673a\u6784\u4e13\u8425\u3002\u7ec4\u5efa\u516c\u76ca\u6027\u7684\u4eba\u624d\u4f4f\u623f\u4e13\u8425\u673a\u6784\uff0c\u63a8\u8fdb\u4eba\u624d\u4f4f\u623f\u5efa\u8bbe\u8fd0\u8425\u7ba1\u7406\u6a21\u5f0f\u7684\u91cd\u5927\u7ed3\u6784\u6027\u6539\u9769\u3002</p>\n<p align=\"justify\">\u3000\u3000\u4e3a\u8fdb\u4e00\u6b65\u63d0\u5347\u6211\u5e02\u4eba\u624d\u4f4f\u623f\u5efa\u8bbe\u8fd0\u8425\u7ba1\u7406\u80fd\u529b\uff0c\u5e02\u59d4\u5e02\u653f\u5e9c\u51b3\u5b9a\u6ce8\u8d44300\u4e2a\u4ebf\u7ec4\u5efa\u56fd\u6709\u72ec\u8d44\u7684\u5168\u5e02\u4eba\u624d\u4f4f\u623f\u4e13\u8425\u673a\u6784\u2014\u2014\u5e02\u4eba\u624d\u5b89\u5c45\u96c6\u56e2\uff0c\u8d1f\u8d23\u5168\u5e02\u4eba\u624d\u4f4f\u623f\u7684\u5efa\u8bbe\u7b79\u96c6\u3001\u6295\u878d\u8d44\u53ca\u8fd0\u8425\u7ba1\u7406\u7b49\u4e1a\u52a1\uff0c\u5b9e\u73b0\u4eba\u624d\u4f4f\u623f\u5168\u8fc7\u7a0b\u4e00\u4f53\u5316\u5efa\u8bbe\u8fd0\u8425\u7ba1\u7406\u3002\u76ee\u524d\uff0c\u5e02\u4eba\u624d\u5b89\u5c45\u96c6\u56e2\u5df2\u6b63\u5f0f\u6295\u5165\u8fd0\u8425\u3002</p>\n<p align=\"justify\">\u3000\u3000\u4e09\u3001\u843d\u5b9e\u300a\u82e5\u5e72\u63aa\u65bd\u300b\u7684\u4e0b\u4e00\u6b65\u5de5\u4f5c\u5b89\u6392</p>\n<p align=\"justify\">\u3000\u3000\u4eba\u624d\u4f4f\u623f\u662f\u4e00\u9879\u7efc\u5408\u6027\u3001\u7cfb\u7edf\u6027\u7684\u5de5\u4f5c\uff0c\u300a\u82e5\u5e72\u63aa\u65bd\u300b\u4f5c\u4e3a\u5168\u5c40\u6027\u7684\u6307\u5bfc\u653f\u7b56\u6587\u4ef6\uff0c\u4e3a\u6211\u5e02\u4eba\u624d\u4f4f\u623f\u7684\u53d1\u5c55\u7ed8\u5236\u4e86\u7f8e\u597d\u84dd\u56fe\uff0c\u4e3a\u5c3d\u5feb\u5c06\u84dd\u56fe\u53d8\u4e3a\u73b0\u5b9e\uff0c\u6211\u5e02\u672a\u6765\u7684\u4eba\u624d\u4f4f\u623f\u5de5\u4f5c\u5c06\u4ece\u4ee5\u4e0b\u516d\u4e2a\u65b9\u9762\u91cd\u70b9\u90e8\u7f72\u3001\u5168\u529b\u63a8\u8fdb\uff1a</p>\n<p align=\"justify\">\u3000\u3000\u4e00\u662f\u7834\u89e3\u571f\u5730\u74f6\u9888\u3002\u591a\u6e20\u9053\u5f00\u5c55\u4eba\u624d\u4f4f\u623f\u7b79\u96c6\u5efa\u8bbe\uff0c\u4e3b\u8981\u5305\u62ec\uff1a\u5168\u9762\u786e\u7acb\u4eba\u624d\u4f4f\u623f\u7528\u5730\u4f18\u5148\u4f9b\u7ed9\u539f\u5219\uff0c\u5c3d\u5feb\u843d\u5b9e\u4eba\u624d\u4f4f\u623f\u7528\u5730\u4e13\u9879\u6574\u5907\u8ba1\u5212\uff1b\u4e25\u683c\u6267\u884c\u57ce\u5e02\u66f4\u65b0\u3001\u68da\u6237\u533a\u6539\u9020\u3001\u5546\u54c1\u623f\u914d\u5efa\u4eba\u624d\u4f4f\u623f\u7684\u5404\u9879\u6bd4\u4f8b\uff1b\u7814\u7a76\u5236\u5b9a\u9f13\u52b1\u793e\u4f1a\u529b\u91cf\u53c2\u4e0e\u4eba\u624d\u4f4f\u623f\u5efa\u8bbe\u8fd0\u8425\u7684\u5404\u9879\u653f\u7b56\uff0c\u521b\u65b0\u8fd0\u7528PPP\u6a21\u5f0f\u5efa\u8bbe\u7b79\u96c6\u4eba\u624d\u4f4f\u623f\uff0c\u540c\u65f6\u901a\u8fc7\u6d41\u7a0b\u4f18\u5316\u3001\u571f\u5730\u8ba9\u5229\u7b49\u591a\u79cd\u65b9\u5f0f\u5207\u5b9e\u63d0\u9ad8\u793e\u4f1a\u79ef\u6781\u6027\uff1b\u7cfb\u7edf\u89e3\u51b3\u5b58\u91cf\u4f4f\u623f\u7eb3\u5165\u4eba\u624d\u4f4f\u623f\u7684\u5404\u7c7b\u653f\u7b56\u95ee\u9898\uff0c\u52a0\u5927\u5b58\u91cf\u4f4f\u623f\u7684\u7b79\u96c6\u529b\u5ea6\u3002</p>\n<p align=\"justify\">\u3000\u3000\u4e8c\u662f\u5f3a\u5316\u914d\u5957\u843d\u5b9e\u3002\u52a0\u5feb\u5b8c\u5584\u843d\u5b9e\u5728\u5efa\u548c\u5df2\u5206\u914d\u4fdd\u969c\u6027\u4f4f\u623f\u9879\u76ee\u516c\u5171\u914d\u5957\uff0c\u540c\u65f6\u5bf9\u4e8e\u65b0\u5efa\u7684\u4fdd\u969c\u6027\u4f4f\u623f\u548c\u4eba\u624d\u4f4f\u623f\u9879\u76ee\uff0c\u4e25\u683c\u6267\u884c\u4e3b\u4f53\u5de5\u7a0b\u4e0e\u516c\u5171\u914d\u5957\u201c\u540c\u6b65\u89c4\u5212\u3001\u540c\u6b65\u5efa\u8bbe\u3001\u540c\u6b65\u4ea4\u4ed8\u201d\u3002\u79ef\u6781\u5bf9\u63a5\u5e02\u59d4\u5e02\u653f\u5e9c\u7684\u201c\u4e1c\u8fdb\u6218\u7565\u201d\uff0c\u4f18\u5316\u4eba\u624d\u4f4f\u623f\u5e03\u5c40\uff0c\u5728\u5177\u5907\u6761\u4ef6\u7684\u533a\u57df\uff0c\u4f9d\u6258\u4eba\u624d\u4f4f\u623f\u5efa\u8bbe\u6253\u9020\u82e5\u5e72\u7279\u8272\u5c0f\u9547\uff0c\u5b9e\u73b0\u4ea7\u57ce\u878d\u5408\u3001\u804c\u4f4f\u5e73\u8861\u3002</p>\n<p align=\"justify\">\u3000\u3000\u4e09\u662f\u63d0\u9ad8\u4f4f\u623f\u54c1\u8d28\u3002\u5f00\u5c55\u4eba\u624d\u4f4f\u623f\u9700\u6c42\u8c03\u67e5\uff0c\u5c31\u533a\u4f4d\u3001\u6237\u578b\u3001\u9762\u79ef\u6807\u51c6\u3001\u79df\u552e\u610f\u5411\u7b49\u8fdb\u884c\u5145\u5206\u8c03\u7814\uff0c\u5408\u7406\u914d\u7ed9\u5927\u3001\u4e2d\u3001\u5c0f\u7b49\u591a\u79cd\u6237\u578b\uff0c\u786e\u4fdd\u4e0d\u540c\u7c7b\u578b\u7684\u4eba\u624d\u7fa4\u4f53\u5747\u80fd\u5b89\u5c45\u4e50\u4e1a\u3002\u5927\u529b\u63a8\u5e7f\u88c5\u914d\u5f0f\u5efa\u7b51\uff0c\u4e0e\u7eff\u8272\u5efa\u7b51\u6df1\u5ea6\u878d\u5408\uff0c\u6253\u9020\u8bbe\u8ba1\u4f18\u826f\u3001\u8d28\u91cf\u53ef\u9760\u3001\u7eff\u8272\u5b9c\u5c45\u7684\u4eba\u624d\u4f4f\u623f\u3002</p>\n<p align=\"justify\">\u3000\u3000\u56db\u662f\u5c3d\u5feb\u542f\u52a8\u4fee\u6cd5\u3002\u52a0\u5feb\u4fee\u8ba2\u300a\u6df1\u5733\u5e02\u4eba\u624d\u5b89\u5c45\u529e\u6cd5\u300b\u7b49\u76f8\u5173\u6cd5\u89c4\u89c4\u7ae0\u53ca\u914d\u5957\u6587\u4ef6\uff0c\u5b9e\u73b0\u4e0e\u300a\u82e5\u5e72\u63aa\u65bd\u300b\u7684\u6709\u673a\u8854\u63a5\uff0c\u786e\u4fdd\u4eba\u624d\u4f4f\u623f\u5de5\u4f5c\u5728\u6cd5\u6cbb\u8f68\u9053\u4e0a\u8fd0\u884c\u3002</p>\n<p align=\"justify\">\u3000\u3000\u4e94\u662f\u9650\u671f\u5236\u8ba2\u914d\u5957\u7ec6\u5219\u3002\u9488\u5bf9\u300a\u82e5\u5e72\u63aa\u65bd\u300b\u6d89\u53ca\u7684\u76f8\u5173\u5de5\u4f5c\uff0c\u5df2\u5236\u5b9a\u4e86\u5b8c\u6574\u7684\u90e8\u95e8\u8d23\u4efb\u5206\u5de5\uff0c\u5e76\u8981\u6c42\u5404\u90e8\u95e8\u9650\u671f\u9488\u5bf9\u7275\u5934\u529e\u7406\u7684\u4e8b\u9879\u5236\u5b9a\u5b9e\u65bd\u7ec6\u5219\uff0c\u660e\u786e\u65f6\u95f4\u8868\u548c\u8def\u7ebf\u56fe\uff0c\u786e\u5b9a\u8d23\u4efb\u9886\u5bfc\u548c\u5177\u4f53\u8d23\u4efb\u4eba\uff0c\u786e\u4fdd\u5404\u9879\u63aa\u65bd\u771f\u6b63\u843d\u5730\u3002</p>\n<p align=\"justify\">\u3000\u3000\u516d\u662f\u5b8c\u5584\u8003\u6838\u4f53\u7cfb\u3002\u672a\u6765\u6211\u5e02\u4f4f\u623f\u5de5\u4f5c\u76ee\u6807\u8003\u6838\u8303\u56f4\u4e0d\u4ec5\u5305\u62ec\u5efa\u8bbe\u7b79\u96c6\u6307\u6807\uff0c\u66f4\u91cd\u8981\u7684\u662f\u5c06\u628a\u914d\u5957\u5b8c\u5584\u7a0b\u5ea6\u3001\u4f4f\u623f\u5206\u914d\u6548\u7387\u3001\u623f\u5c4b\u5b89\u5168\u8d28\u91cf\u7b49\u6709\u52a9\u4e8e\u589e\u8fdb\u4eba\u624d\u4f4f\u623f\u83b7\u5f97\u611f\u7684\u76f8\u5173\u6307\u6807\u7eb3\u5165\u8003\u6838\u4f53\u7cfb\uff0c\u4ee5\u786e\u4fdd\u653f\u7b56\u5b9e\u65bd\u6548\u679c\u6700\u5927\u5316\u3002</p>\n<p>\u3000\u3000</p> \n\t\t\t<div class=\"same\">\n                <div class=\"samespace\"></div>\n                <div class=\"space\"></div>\n                        <strong>\u76f8\u5173\u9644\u4ef6</strong>\n\t\t\t\t\t\t<div class=\"list\">\n\t\t\t\t\t\t\t<script>\n\t\t\t\t\t\t\tvar a = 0;\n\t\t\t\t\t\t\t</script>\n\t\t\t\t\t\t   \n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n             </div>"
     }
   ],
+  //地方列表
+  placeList: [
+    {
+      "target": 0,
+      "title": ["中心管理部"],
+      "workTime": ["办理时间：周一至周五9:00-12:00,14:00-17:30（法定节假日除外）"],
+      "place": [],
+      "list": [{
+        "nameList": "福田管理部",
+        "placeList": "深圳市福田区侨香路2008号侨香村 1 栋裙楼",
+        "telList": "0755-12329"
+      }, {
+        "nameList": "宝安管理部",
+        "placeList": "宝安区西乡大道288号华丰经济大厦东侧2楼",
+        "telList": "0755-12329"
+      }, {
+        "nameList": "龙岗管理部",
+        "placeList": "深圳市龙岗区黄阁北路龙岗天安数码新城2号楼2层A202",
+        "telList": "0755-12329"
+      },]
+    }, {
+      "target": 1,
+      "title": ["工商银行深圳分行公积金业务网点"],
+      "workTime": ["办理时间：周一至周五9:00-12:00,14:00-17:00（法定节假日除外）"],
+      "place": ["福田区", "罗湖区", "南山区", "盐田区", "龙华区", "宝安区", "龙岗区", "光明区", "坪山区", "大鹏新区"]
+    }, {
+      "target": 2,
+      "title": ["建设银行深圳分行公积金业务网点"],
+      "workTime": ["办理时间：周一至周五9:00-12:00,14:00-17:00（法定节假日除外）"],
+      "place": ["福田区", "罗湖区", "南山区", "盐田区", "龙华区", "宝安区", "龙岗区", "光明区", "坪山区", "大鹏新区"]
+    }, {
+      "target": 3,
+      "title": ["中国银行深圳分行公积金业务网点"],
+      "workTime": ["办理时间：周一至周五9:00-12:00,14:00-17:00（法定节假日除外）"],
+      "place": ["福田区", "罗湖区", "南山区", "盐田区", "龙华区", "宝安区", "龙岗区", "光明区", "坪山区", "大鹏新区"]
+    }, {
+      "target": 4,
+      "title": ["中信银行深圳分行公积金业务网点"],
+      "workTime": ["办理时间：周一至周五9:00-12:00,14:00-17:00（法定节假日除外）"],
+      "place": ["福田区", "罗湖区", "南山区", "盐田区", "龙华区", "宝安区", "龙岗区", "光明区", "坪山区", "大鹏新区"]
+    }, {
+      "target": 5,
+      "title": ["兴业银行深圳分行公积金业务网点"],
+      "workTime": ["办理时间：周一至周五9:00-12:00,14:00-17:00（法定节假日除外）"],
+      "place": ["福田区", "罗湖区", "南山区", "盐田区", "龙华区", "宝安区", "龙岗区", "光明区", "坪山区", "大鹏新区"]
+    }, {
+      "target": 6,
+      "title": ["交通银行深圳分行公积金业务网点"],
+      "workTime": ["办理时间：周一至周五9:00-12:00,14:00-17:00（法定节假日除外）"],
+      "place": ["福田区", "罗湖区", "南山区", "盐田区", "龙华区", "宝安区", "龙岗区", "光明区", "坪山区", "大鹏新区"]
+    }, {
+      "target": 7,
+      "title": ["招商银行深圳分行公积金业务网点"],
+      "workTime": ["办理时间：周一至周五9:00-12:00,14:00-17:00（法定节假日除外）"],
+      "place": ["福田区", "罗湖区", "南山区", "盐田区", "龙华区", "宝安区", "龙岗区", "光明区", "坪山区", "大鹏新区"]
+    }, {
+      "target": 8,
+      "title": ["异地购房提取业务网点"],
+      "workTime": ["办理时间：周一至周五9:00-12:00,14:00-17:00（法定节假日除外）"],
+      "place": ["建设银行", "招商银行"]
+    }],
+  //地方列表详情
+  placeDetail: [
+    {
+      "title": "工商银行深圳分行公积金业务网点-南山区",
+      "list": [{
+        "nameList": "工行麒麟支行",
+        "placeList": "深圳市南山区玉泉路麒麟花园B区6栋A座首层",
+        "telList": "0755-26550251"
+      }, {
+        "nameList": "工行海岸城支行",
+        "placeList": "深圳市南山区文心五路海岸大厦东座首层102-107",
+        "telList": "0755-86271353、0755-86290740"
+      }, {"nameList": "工行西丽支行", "placeList": "深圳市南山区沙河西路鼎新大厦一楼", "telList": "0755-26528593"}, {
+        "nameList": "工行高新园支行",
+        "placeList": "深圳市南山区高新区南区高新一道中科研发园三号楼塔楼首层",
+        "telList": "0755-86309094"
+      }, {"nameList": "工行蛇口支行", "placeList": "深圳市南山区蛇口招商路173号", "telList": "0755-26029187"}, {
+        "nameList": "工行南山支行",
+        "placeList": "深圳市南山区南新路2064号",
+        "telList": "0755-86604110"
+      }]
+    }, {
+      "title": "工商银行深圳分行公积金业务网点-罗湖区",
+      "list": [{
+        "nameList": "工行深港支行",
+        "placeList": "深圳市罗湖区宝安北路深圳国际商品交易大厦一楼",
+        "telList": "0755-82359078"
+      }, {"nameList": "工行红围支行", "placeList": "深圳市罗湖区深南东路地王商务中心附楼首层", "telList": "0755-22983424"}, {
+        "nameList": "工行莲塘支行",
+        "placeList": "深圳市罗湖区莲塘聚宝路48号聚宝楼首层",
+        "telList": "0755-25701894"
+      }, {"nameList": "工行水贝支行", "placeList": "深圳市罗湖区水贝二路贝丽花园21栋一楼", "telList": "0755-25635621"}, {
+        "nameList": "工行分行营业部",
+        "placeList": "深圳市罗湖区深南东路金融大厦北座一楼",
+        "telList": "0755-25930190"
+      }, {"nameList": "工行深东支行", "placeList": "深圳市罗湖区深南东路2017号华乐大厦1层", "telList": "0755-22279906"}, {
+        "nameList": "工行东门支行",
+        "placeList": "深圳市罗湖区文锦中路锦绣大厦一楼",
+        "telList": "0755-25402658"
+      }, {"nameList": "工行罗湖支行", "placeList": "深圳市罗湖区深南东路3065号", "telList": "0755-82288453"}]
+    }, {
+      "title": "工商银行深圳分行公积金业务网点-福田区",
+      "list": [{
+        "nameList": "工行振华支行",
+        "placeList": "深圳市福田区振华路中航苑飞亚达大厦首层",
+        "telList": "0755-83252976"
+      }, {"nameList": "工行华强支行", "placeList": "深圳市福田区深南中路2074号电子大厦一楼", "telList": "0755-83781355"}, {
+        "nameList": "工行星河支行",
+        "placeList": "深圳市福田区福华三路星河国际花园B2座裙楼1层",
+        "telList": "0755-82036259"
+      }, {
+        "nameList": "工行喜年支行",
+        "placeList": "深圳市福田区深南大道6021号喜年中心大厦一楼",
+        "telList": "0755-82024469"
+      }, {"nameList": "工行福田支行", "placeList": "深圳市福田区滨河路联合广场A座首层", "telList": "0755-82910419"}, {
+        "nameList": "工行上步支行",
+        "placeList": "深圳市福田区红荔路四川大厦北附楼",
+        "telList": "0755-83512753"
+      }, {"nameList": "工行深圳湾支行", "placeList": "深圳市福田区深南大道6008号特区报业大厦九楼", "telList": "0755-83534120"}]
+    }, {"title": "中信银行深圳分行公积金业务网点-坪山区", "list": []}, {
+      "title": "中信银行深圳分行公积金业务网点-光明区",
+      "list": [{"nameList": "中信银行光明区支行", "placeList": "深圳市光明区光明大道与华夏路交汇处润鑫大厦一层、二层", "telList": "0755-23199607"}]
+    }, {
+      "title": "中信银行深圳分行公积金业务网点-宝安区",
+      "list": [{
+        "nameList": "中信银行福永支行",
+        "placeList": "深圳市宝安区福永街道广深路福永段77号益田假日天地L1-W21铺",
+        "telList": "0755-23019571"
+      }, {
+        "nameList": "中信银行沙井支行",
+        "placeList": "深圳市宝安区沙井街道沙进路168号中熙大厦沙井京基百纳广场112、113A、207A号铺",
+        "telList": "0755-23720646"
+      }, {"nameList": "中信银行宝安支行", "placeList": "深圳市宝安区裕安一路尚都花园1栋首层", "telList": "0755-27759752"}, {
+        "nameList": "中信银行西乡支行",
+        "placeList": "深圳市宝安区西乡街道新湖路圣陶沙骏园4栋首层",
+        "telList": "0755-27901763"
+      }, {"nameList": "中信银行宝城支行", "placeList": "深圳市宝安区建安一路78号新华书店一楼", "telList": "0755-27753909"}]
+    }, {
+      "title": "中信银行深圳分行公积金业务网点-龙华区",
+      "list": [{
+        "nameList": "中信银行民治支行",
+        "placeList": "深圳市龙华区民治大道468号海韵大厦一楼01、02、03、04、05号铺",
+        "telList": "0755-21635270"
+      }, {"nameList": "中信银行龙华支行", "placeList": "深圳市龙华区民治街道人民南路水榭春天花园2栋101、102、103", "telList": "0755-28157960"}]
+    }, {
+      "title": "中信银行深圳分行公积金业务网点-龙岗区",
+      "list": [{
+        "nameList": "中信银行布吉支行",
+        "placeList": "深圳市龙岗区布吉镇百鸽路信义假日名城博雅园裙楼首层",
+        "telList": "0755-84700251"
+      }, {
+        "nameList": "中信银行龙岗支行",
+        "placeList": "深圳市龙岗区中心城爱心路11号深宝公寓半首层",
+        "telList": "0755-28929520"
+      }, {"nameList": "中信银行横岗支行", "placeList": "深圳市龙岗区横岗红棉一路卓越城市中心花园首层", "telList": "0755-28633566"}]
+    }, {
+      "title": "中信银行深圳分行公积金业务网点-南山区",
+      "list": [{
+        "nameList": "中信银行深圳蛇口支行",
+        "placeList": "深圳市南山区蛇口望海路1168号招商局广场2#楼01层03、04、大堂及02层01单元",
+        "telList": "0755-26688256"
+      }, {
+        "nameList": "中信银行前海分行营业部",
+        "placeList": "深圳市南山区前海深港合作区前湾一路63号前海企业公馆11A\\B栋",
+        "telList": "0755-26865355"
+      }, {
+        "nameList": "中信银行三诺大厦支行",
+        "placeList": "深圳市南山区滨海大道3012号三诺智慧大厦L1-01、L1-02、L2-01、L2-02",
+        "telList": "0755-86967261"
+      }, {
+        "nameList": "中信银行后海支行",
+        "placeList": "深圳市南山区后海中心路3333号中铁南方总部大厦裙楼",
+        "telList": "0755-86211380"
+      }, {
+        "nameList": "中信银行华侨城支行",
+        "placeList": "深圳市南山区侨香路智慧广场BM层商业中心",
+        "telList": "0755-82073338"
+      }, {
+        "nameList": "中信银行高新区支行",
+        "placeList": "深圳市南山区高新南一道TCL大厦首层",
+        "telList": "0755-86158518"
+      }, {
+        "nameList": "中信银行深圳海湾支行",
+        "placeList": "深圳市南山区高新南十道深圳湾科技生态园1栋A座与B座首层",
+        "telList": "0755-26006562"
+      }, {
+        "nameList": "中信银行南山支行",
+        "placeList": "深圳市南山区桃园路1号西海明珠大厦首层",
+        "telList": "0755-86213841"
+      }, {"nameList": "中信银行红树湾支行", "placeList": "深圳市南山区白石路京基百纳广场首层", "telList": "0755-86288325"}]
+    }, {
+      "title": "中信银行深圳分行公积金业务网点-盐田区",
+      "list": [{"nameList": "中信银行盐田支行", "placeList": "深圳市盐田区沙头角海景二路蓝郡广场首层14-21号", "telList": "0755-22379972"}]
+    }, {
+      "title": "中信银行深圳分行公积金业务网点-罗湖区",
+      "list": [{
+        "nameList": "中信银行深圳金山大厦支行",
+        "placeList": "深圳市罗湖区深南东路5033号金山大厦一层西侧",
+        "telList": "0755-83280878"
+      }, {"nameList": "中信银行罗湖支行", "placeList": "深圳市罗湖区南湖路兴隆大厦裙楼首层", "telList": "0755-25186163"}, {
+        "nameList": "中信银行笋岗支行",
+        "placeList": "深圳市罗湖区笋岗路中民时代广场首层",
+        "telList": "0755-82485290"
+      }, {"nameList": "中信银行罗湖口岸支行", "placeList": "深圳市罗湖区春风路4001号新都酒店首层", "telList": "0755-82324948"}]
+    }, {
+      "title": "中国银行深圳分行公积金业务网点-光明区",
+      "list": [{
+        "nameList": "中行公明支行",
+        "placeList": "深圳市光明区公明办事处兴发路1号1－2楼",
+        "telList": "0755-22337940"
+      }, {"nameList": "中行光明支行", "placeList": "深圳市光明区光明街道光明大街88号", "telList": "0755-22337957"}]
+    }, {
+      "title": "异地购房提取业务网点-招商银行",
+      "list": [{
+        "nameList": "招商银行龙城支行",
+        "placeList": "深圳市龙岗区中心城黄阁路龙岗天安数码创业园2号厂房01层102号、02层202号",
+        "telList": "28994354"
+      }, {
+        "nameList": "招商银行高新园支行",
+        "placeList": "深圳市南山区高新技术产业区高新南七道德维森大厦首层",
+        "telList": "86140396"
+      }, {"nameList": "招商银行上步支行", "placeList": "深圳市福田区深南大道1002号新闻大厦一楼", "telList": "82098581"}, {
+        "nameList": "招商银行宝安支行",
+        "placeList": "深圳市宝安区九区宝民路广场大厦首层",
+        "telList": "29962710"
+      }, {"nameList": "招商银行深南中路支行", "placeList": "深圳市福田区深南大道3039号国际文化大厦首层", "telList": "25322139"}]
+    }, {
+      "title": "异地购房提取业务网点-建设银行",
+      "list": [{
+        "nameList": "建设银行蛇口支行",
+        "placeList": "深圳市南山区蛇口太子路18号海景广场一楼",
+        "telList": "26826276"
+      }, {
+        "nameList": "建设银行盐田支行营业部",
+        "placeList": "深圳市盐田区深盐路与马庙街交汇处壹海城一、二层（区政府对面）",
+        "telList": "25350991"
+      }, {"nameList": "建设银行华侨城支行", "placeList": "深圳市南山区华侨城湖滨花园裙楼", "telList": "26922082"}, {
+        "nameList": "建设银行吉华支行",
+        "placeList": "深圳市龙岗区布吉街道办旁中心花园商铺1楼（新一佳旁）",
+        "telList": "28533716"
+      }, {"nameList": "建设银行光明区支行", "placeList": "深圳市光明区光明大道滨河苑4栋首层", "telList": "27405898"}]
+    }, {
+      "title": "中信银行深圳分行公积金业务网点-福田区",
+      "list": [{
+        "nameList": "中信银行福华支行",
+        "placeList": "深圳市福田区福华一路中信银行大厦一楼",
+        "telList": "0755-83259794"
+      }, {
+        "nameList": "中信银行深南支行",
+        "placeList": "深圳市福田区深南大道1003号大中华国际金融中心西座首层",
+        "telList": "0755-23990285"
+      }, {"nameList": "中信银行香林支行", "placeList": "深圳市福田区香林路36号九润大厦一楼", "telList": "0755-88300469"}, {
+        "nameList": "中信银行泰然支行",
+        "placeList": "深圳市福田区深南大道6019号金润大厦一楼",
+        "telList": "0755-82800545"
+      }, {"nameList": "中信银行市民中心支行", "placeList": "深圳市福田区福中三路诺德中心", "telList": "0755-83904817"}, {
+        "nameList": "中信银行皇岗支行",
+        "placeList": "深圳市福田区福民路福民佳园首层",
+        "telList": "0755-88307163"
+      }, {
+        "nameList": "中信银行城市广场旗舰支行",
+        "placeList": "深圳市福田区深南中路1093号中信大厦1楼",
+        "telList": "0755-83054966"
+      }, {
+        "nameList": "中信银行福田支行",
+        "placeList": "深圳市福田区彩田南路联合广场大厦一楼1-1(裙楼)",
+        "telList": "0755-82910659"
+      }, {"nameList": "中信银行八卦岭支行", "placeList": "深圳市福田区八卦二路鹏益花园一楼", "telList": "0755-25910968"}, {
+        "nameList": "中信银行福南支行",
+        "placeList": "深圳市福田区中心区深南大道4009号投资大厦首层",
+        "telList": "0755-82912253"
+      }, {
+        "nameList": "中信银行分行营业部",
+        "placeList": "深圳市福田区中心三路卓越时代广场首层",
+        "telList": "0755-25942067"
+      }, {"nameList": "中信银行福强支行", "placeList": "深圳市福田区沙尾工业区307栋首层", "telList": "0755-88992798"}, {
+        "nameList": "中信银行景田支行",
+        "placeList": "深圳市福田区水榭花都三期商业广场",
+        "telList": "0755-25987560"
+      }, {"nameList": "中信银行香蜜湖支行", "placeList": "深圳市福田区农园路香域中央花园香域街101号", "telList": "0755-82197745"}]
+    }, {
+      "title": "中国银行深圳分行公积金业务网点-大鹏新区",
+      "list": [{
+        "nameList": "中行葵涌支行",
+        "placeList": "深圳市大鹏新区葵涌街道葵坪北路44号",
+        "telList": "0755-22336372"
+      }, {"nameList": "中行大鹏支行", "placeList": "深圳市大鹏新区大鹏街道鹏新西路56号", "telList": "0755-22337776"}]
+    }, {
+      "title": "中国银行深圳分行公积金业务网点-龙岗区",
+      "list": [{
+        "nameList": "中行六约支行",
+        "placeList": "深圳市龙岗区横岗街道红棉一路锦冠华城雅景苑二期104号",
+        "telList": "0755-22334765"
+      }, {"nameList": "中行坪地支行", "placeList": "深圳市龙岗区坪地街道湖田路49号", "telList": "0755-22337858"}, {
+        "nameList": "中行坂田支行",
+        "placeList": "深圳市龙岗区布吉镇坂田村坂田大厦首层",
+        "telList": "0755-22337190"
+      }, {"nameList": "中行平湖支行", "placeList": "深圳市龙岗区平湖镇守珍街109号", "telList": "0755-22336854"}, {
+        "nameList": "中行龙岗支行",
+        "placeList": "深圳市龙岗区中心城德政路龙财大楼",
+        "telList": "0755-22337817"
+      }, {"nameList": "中行布吉支行", "placeList": "深圳市龙岗区布吉镇布吉路108号", "telList": "0755-22335735"}, {
+        "nameList": "中行华为驻点办",
+        "placeList": "深圳市龙岗区坂田街道华为基地F2负一楼",
+        "telList": "0755-22336960"
+      }]
+    }, {
+      "title": "中国银行深圳分行公积金业务网点-坪山区",
+      "list": [{"nameList": "中行坪山支行", "placeList": "深圳市坪山区新和四路招商花园城5栋S516商铺", "telList": "0755-22334654"}]
+    }, {"title": "招商银行深圳分行公积金业务网点-大鹏新区", "list": []}, {
+      "title": "招商银行深圳分行公积金业务网点-坪山区",
+      "list": []
+    }, {"title": "招商银行深圳分行公积金业务网点-光明区", "list": []}, {
+      "title": "招商银行深圳分行公积金业务网点-龙岗区",
+      "list": [{
+        "nameList": "招行横岗支行",
+        "placeList": "深圳市龙岗区横岗街道湛宝路8-11号锦冠华城裙楼首层",
+        "telList": "0755-89732004"
+      }, {
+        "nameList": "招行龙岗支行",
+        "placeList": "深圳市龙岗区中心城龙翔大道9009号珠江广场C2a号",
+        "telList": "0755-28920354"
+      }, {"nameList": "招行布吉支行", "placeList": "深圳市龙岗区布吉街道罗岗路口春梅园大酒店旁", "telList": "0755-28579345"}, {
+        "nameList": "招行龙城支行",
+        "placeList": "深圳市龙岗区中心城黄阁路龙岗天安数码创业园2号厂房102-202单元",
+        "telList": "0755-28994354"
+      }]
+    }, {
+      "title": "招商银行深圳分行公积金业务网点-龙华区",
+      "list": [{
+        "nameList": "招行梅龙支行",
+        "placeList": "深圳市龙华区龙华梅龙路锦绣江南花园4期商业街1084－1095号铺",
+        "telList": "0755-29192126"
+      }, {"nameList": "招行龙华支行", "placeList": "深圳市龙华区龙华人民中路美丽AAA大厦首层", "telList": "0755-29369950"}]
+    }, {
+      "title": "招商银行深圳分行公积金业务网点-盐田区",
+      "list": [{"nameList": "招行盐田支行", "placeList": "深圳市盐田区沙头角官吓路69号瀚海东岸群楼首层", "telList": "0755-25559944"}]
+    }, {
+      "title": "招商银行深圳分行公积金业务网点-宝安区",
+      "list": [{
+        "nameList": "招行宝安中心区支行",
+        "placeList": "深圳市宝安区兴华路南侧龙光世纪大厦2栋1-01、1-02、2-30、2-32",
+        "telList": "0755-23502530"
+      }, {
+        "nameList": "招行沙井支行",
+        "placeList": "深圳市宝安区沙井街道中心路100号星河大厦首层",
+        "telList": "0755-23765310"
+      }, {
+        "nameList": "招行建安支行",
+        "placeList": "深圳市宝安区建安一路99号海雅缤纷城L164/L267",
+        "telList": "0755-29748169"
+      }, {"nameList": "招行新安支行", "placeList": "深圳市宝安区罗田路幸福海岸10栋首层", "telList": "0755-29186720"}, {
+        "nameList": "招行松岗支行",
+        "placeList": "深圳市宝安区松岗街道办立业路兆丰祥大厦首层",
+        "telList": "0755-27714925"
+      }, {"nameList": "招行宝安支行", "placeList": "深圳市宝安区九区宝民路广场大厦首层", "telList": "0755-29962710"}]
+    }, {
+      "title": "招商银行深圳分行公积金业务网点-南山区",
+      "list": [{
+        "nameList": "招行后海海月支行",
+        "placeList": "深圳市南山区岸湾三街汉森吉祥龙花园首层S116-S117",
+        "telList": "0755-82520824"
+      }, {
+        "nameList": "招行深圳湾支行",
+        "placeList": "深圳市南山区中心路3331号中建钢构大厦首层",
+        "telList": "0755-22672792"
+      }, {
+        "nameList": "招行世界之窗支行",
+        "placeList": "深圳市南山区深南大道9030号世纪假日广场A座（世界之窗地铁站C1出口）",
+        "telList": "0755-82783145"
+      }, {
+        "nameList": "招行西丽支行",
+        "placeList": "深圳市南山区留仙大道鼎新大厦东座首层（西丽地铁站F出口）",
+        "telList": "0755-23942357"
+      }, {
+        "nameList": "招行华润城支行",
+        "placeList": "深圳市南山区深南大道9678号大冲商务中心B座楼一楼、二楼（高新园地铁站B出口）",
+        "telList": "0755-83755356"
+      }, {
+        "nameList": "招行源兴支行",
+        "placeList": "深圳市南山区高新技术产业园北区松坪山路1号源兴科技大厦北座1层103房",
+        "telList": "0755-86721700"
+      }, {"nameList": "招行南油支行", "placeList": "深圳市南山区南海大道新能源大厦首层", "telList": "0755-86936419"}, {
+        "nameList": "招行四海支行",
+        "placeList": "深圳市南山区后海路海印长城二期商铺104号",
+        "telList": "0755-26394990"
+      }, {
+        "nameList": "招行愉康支行",
+        "placeList": "深圳市南山区南山大道与学府路交界处福临苑大厦首层",
+        "telList": "0755-86129120"
+      }, {
+        "nameList": "招行创维大厦支行",
+        "placeList": "深圳市南山区高新南四道18号创维半导体设计大厦东座101-102",
+        "telList": "0755-83025220"
+      }, {
+        "nameList": "招行威盛大厦支行",
+        "placeList": "深圳市南山区深南大道9966号威盛科技大厦首层",
+        "telList": "0755-26585062"
+      }, {
+        "nameList": "招行软件基地支行",
+        "placeList": "深圳市南山区学府路85号高新技术产业区深圳软件产业基地1栋A座",
+        "telList": "0755-86725101"
+      }, {"nameList": "招行东滨支行", "placeList": "深圳市南山区东滨路新一代国际公寓首层103A", "telList": "0755-86196154"}, {
+        "nameList": "招行南山支行",
+        "placeList": "深圳市南山区文心五路与海德三道交汇处海岸城西座首层",
+        "telList": "0755-86278550"
+      }, {"nameList": "招行华侨城支行", "placeList": "深圳市南山区华侨城东方花园综合楼一楼", "telList": "0755-26904277"}, {
+        "nameList": "招行高新园支行",
+        "placeList": "深圳市南山区高新技术产业区高新南七道德维森大厦一楼",
+        "telList": "0755-86140396"
+      }, {
+        "nameList": "招行前海分行营业部",
+        "placeList": "深圳市南山区前海物流园临海大道59号海运中心一楼",
+        "telList": "0755-26893682"
+      }, {
+        "nameList": "招行科发支行",
+        "placeList": "深圳市南山区科苑路与科发路交汇处金融服务技术创新基地2栋一层",
+        "telList": "0755-86627514"
+      }, {"nameList": "招行科技园支行", "placeList": "深圳市南山区高新南一道飞亚达科技大厦首层", "telList": "0755-26038569"}, {
+        "nameList": "招行新时代支行",
+        "placeList": "深圳市南山区蛇口太子路1号新时代广场首层",
+        "telList": "0755-26806375"
+      }, {"nameList": "招行科苑支行", "placeList": "深圳市南山区高新中四道31号研祥科技大厦首层", "telList": "0755-86255358"}, {
+        "nameList": "招行常兴支行",
+        "placeList": "深圳市南山区桃园路88号常兴广场首层",
+        "telList": "0755-86199625"
+      }, {"nameList": "招行蛇口支行", "placeList": "深圳市南山区蛇口招商路招商大厦首层", "telList": "0755-21625535"}]
+    }, {
+      "title": "招商银行深圳分行公积金业务网点-罗湖区",
+      "list": [{"nameList": "招行向西支行", "placeList": "深圳市罗湖区春风路长丰苑首层", "telList": "0755-82367454"}, {
+        "nameList": "招行笋岗支行",
+        "placeList": "深圳市罗湖区宝安北路828号国际商品交易大厦首层",
+        "telList": "0755-82408712"
+      }, {
+        "nameList": "招行金丰城支行",
+        "placeList": "深圳市罗湖区深南东路5015号金丰城大厦B座一楼",
+        "telList": "0755-82071879"
+      }, {"nameList": "招行罗湖支行", "placeList": "深圳市罗湖区人民南路深房广场A座1楼", "telList": "0755-82182077"}, {
+        "nameList": "招行东门支行",
+        "placeList": "深圳市罗湖区爱国路1002号外贸轻工大厦一、二层",
+        "telList": "0755-82379159"
+      }, {
+        "nameList": "招行蔡屋围支行",
+        "placeList": "深圳市罗湖区宝安南路3038号蔡屋围金塘大厦首层",
+        "telList": "0755-25468983"
+      }, {"nameList": "招行翠竹支行", "placeList": "深圳市罗湖区翠竹路1056号翡翠星空首层", "telList": "0755-25796436"}, {
+        "nameList": "招行文锦渡支行",
+        "placeList": "深圳市罗湖区深南东路文华大厦首层",
+        "telList": "0755-25114167"
+      }]
+    }, {"title": "交通银行深圳分行公积金业务网点-大鹏新区", "list": []}, {
+      "title": "交通银行深圳分行公积金业务网点-宝安区",
+      "list": [{
+        "nameList": "交行松岗支行",
+        "placeList": "深圳市宝安区松岗中心区宝利豪庭一楼",
+        "telList": "0755-27091452"
+      }, {"nameList": "交行沙井支行", "placeList": "深圳市宝安区沙井街道中心路沙利公馆首层", "telList": "0755-29090099"}, {
+        "nameList": "交行前进支行",
+        "placeList": "深圳市宝安区前进二路33号中粮锦云裙楼首层（前进二路与流塘路交界处）",
+        "telList": "0755-29613993"
+      }, {
+        "nameList": "交行前海分行",
+        "placeList": "深圳市宝安区新湖路宏发领域六栋一层A06-A10和二层B01-B09商铺",
+        "telList": "0755-85258007"
+      }, {
+        "nameList": "交行宝民支行",
+        "placeList": "深圳市宝安区西乡街道前进路桃源居11区盛世桃源1栋103号首层",
+        "telList": "0755-29569082"
+      }, {"nameList": "交行宝安支行", "placeList": "深圳市宝安区新安二路湖景居大厦一楼", "telList": "0755-27789781"}]
+    }, {"title": "交通银行深圳分行公积金业务网点-光明区", "list": []}, {
+      "title": "交通银行深圳分行公积金业务网点-龙华区",
+      "list": [{
+        "nameList": "交行龙新支行",
+        "placeList": "深圳市龙华区民治街道民塘路与中梅路交汇处绿景1866公馆北区",
+        "telList": "0755-23080779"
+      }, {"nameList": "交行龙华支行", "placeList": "深圳市龙华区龙华镇人民路252号金鹏商业广场一楼", "telList": "0755-29677713"}]
+    }, {
+      "title": "交通银行深圳分行公积金业务网点-坪山区",
+      "list": [{"nameList": "交行坪山支行", "placeList": "深圳市坪山区坪山街道东纵路373号坪山汽车客运总站办公楼一、二楼", "telList": "0755-28369501"}]
+    }, {
+      "title": "招商银行深圳分行公积金业务网点-福田区",
+      "list": [{
+        "nameList": "招行上步支行",
+        "placeList": "深圳市福田区深南大道1002号新闻大厦首层",
+        "telList": "0755-82098581"
+      }, {
+        "nameList": "招行深南中路支行",
+        "placeList": "深圳市福田区深南大道3039号国际文化大厦首层",
+        "telList": "0755-25322139"
+      }, {
+        "nameList": "招行时代广场支行",
+        "placeList": "深圳市福田区中心区益田路4068号卓越时代广场一楼",
+        "telList": "0755-23994581"
+      }, {
+        "nameList": "招行侨香支行",
+        "placeList": "深圳市福田区侨香路侨香村1栋商业裙楼一层B05-B07",
+        "telList": "0755-23901151"
+      }, {
+        "nameList": "招行中电支行",
+        "placeList": "深圳市福田区深南中路2070号电子科技大厦C座一、二层",
+        "telList": "0755-83036385"
+      }, {"nameList": "招行振华支行", "placeList": "深圳市福田区群星广场裙楼大厦首层招商银行", "telList": "0755-83996793"}, {
+        "nameList": "招行梅景支行",
+        "placeList": "深圳市福田区梅林路梅林尚书苑裙楼一层招商银行",
+        "telList": "0755-82987750"
+      }, {
+        "nameList": "招行中央商务支行",
+        "placeList": "深圳市福田区福华一路88号中心商务大厦首层",
+        "telList": "0755-82032768"
+      }, {"nameList": "招行莲花支行", "placeList": "深圳市福田区福中路莲花依迪综合市场首层", "telList": "0755-23822805"}, {
+        "nameList": "招行福民支行",
+        "placeList": "深圳市福田区福民路众孚大厦首层",
+        "telList": "0755-82712046"
+      }, {"nameList": "招行安联支行", "placeList": "深圳市福田区金田路4018号安联大厦首层", "telList": "0755-82829188"}, {
+        "nameList": "招行福华支行",
+        "placeList": "深圳市福田区福虹路9号世贸广场首层",
+        "telList": "0755-83778273"
+      }, {"nameList": "招行梅林支行", "placeList": "深圳市福田区上梅林理想时代大厦1-2层", "telList": "0755-83167817"}, {
+        "nameList": "招行金色家园支行",
+        "placeList": "深圳市福田区莲花路万科金色家园首层",
+        "telList": "0755-83169529"
+      }, {
+        "nameList": "招行泰然支行",
+        "placeList": "深圳市福田区深南大道6017号都市阳光名苑二楼",
+        "telList": "0755-82044260"
+      }, {"nameList": "招行皇岗支行", "placeList": "深圳市福田区彩田南路中深花园B座首层", "telList": "0755-83267253"}, {
+        "nameList": "招行滨河时代支行",
+        "placeList": "深圳市福田区滨河大道与东涌路交汇处KKONE一楼北入口侧（地铁下沙站B出口）",
+        "telList": "0755-82037244"
+      }, {"nameList": "招行八卦岭支行", "placeList": "深圳市福田区八卦二路旭飞花园首层", "telList": "0755-82669302"}, {
+        "nameList": "招行泰然金谷支行",
+        "placeList": "深圳市福田区车公庙泰然九路海松大厦首层",
+        "telList": "0755-82777956"
+      }, {"nameList": "招行景田支行", "placeList": "深圳市福田区新闻路2号深茂大厦首层", "telList": "0755-83276805"}, {
+        "nameList": "招行深纺大厦支行",
+        "placeList": "深圳市福田区华强北路3号深纺大厦B座首层",
+        "telList": "0755-83776892"
+      }, {
+        "nameList": "招行地铁大厦支行",
+        "placeList": "深圳市福田区福中一路1016号地铁大厦首层",
+        "telList": "0755-82554031"
+      }, {"nameList": "招行福田支行", "placeList": "深圳市福田区华富路5号南光大厦一、二层西侧", "telList": "0755-83778582"}, {
+        "nameList": "招行车公庙支行",
+        "placeList": "深圳市福田区天安车公庙工业区天祥大厦A座1楼",
+        "telList": "0755-83466871"
+      }, {
+        "nameList": "招行爱华支行",
+        "placeList": "深圳市福田区农林路69号深国投广场一期一层一号",
+        "telList": "0755-82531418"
+      }, {"nameList": "招行分行营业部", "placeList": "深圳市福田区深南大道2016号招商银行深圳分行大厦", "telList": "0755-88025262"}]
+    }, {
+      "title": "交通银行深圳分行公积金业务网点-盐田区",
+      "list": [{"nameList": "交行盐田支行", "placeList": "深圳市盐田区沙头角沙深路与沙盐路交汇处盛世名门", "telList": "0755-22324900"}]
+    }, {
+      "title": "交通银行深圳分行公积金业务网点-龙岗区",
+      "list": [{
+        "nameList": "交行龙岗支行",
+        "placeList": "深圳市龙岗区吉祥中路欧景城华庭北区一楼",
+        "telList": "0755-89910610"
+      }, {"nameList": "交行横岗支行", "placeList": "深圳市龙岗区横岗街道信义湛宝大厦商铺", "telList": "0755-89732502"}, {
+        "nameList": "交行布吉支行",
+        "placeList": "深圳市龙岗区布吉中兴路38-1号天虹商场1-2楼",
+        "telList": "0755-28535105"
+      }]
+    }, {
+      "title": "交通银行深圳分行公积金业务网点-罗湖区",
+      "list": [{"nameList": "交行翠竹支行", "placeList": "深圳市罗湖区翠竹路华丽园大厦首层", "telList": "0755-25629226"}, {
+        "nameList": "交行罗湖支行",
+        "placeList": "深圳市罗湖区宝安南路湖北宝丰大厦一楼",
+        "telList": "0755-25579436"
+      }, {"nameList": "交行罗湖口岸支行", "placeList": "深圳市罗湖区和平路1123号大滩大厦首层", "telList": "0755-25561807"}, {
+        "nameList": "交行东门支行",
+        "placeList": "深圳市罗湖区新园路东兴大厦一楼",
+        "telList": "0755-82208923"
+      }]
+    }, {
+      "title": "交通银行深圳分行公积金业务网点-福田区",
+      "list": [{
+        "nameList": "交行红荔支行",
+        "placeList": "深圳市福田区红荔西路3002号交行大厦一楼",
+        "telList": "0755-83230525"
+      }, {"nameList": "交行福田支行", "placeList": "深圳市福田区福民路皇兴大厦一层", "telList": "0755-83873648"}, {
+        "nameList": "交行分行营业部",
+        "placeList": "深圳市福田区深南中路3018号交通银行大厦世纪汇负一楼分行营业部",
+        "telList": "0755-88020850"
+      }, {"nameList": "交行景田支行", "placeList": "深圳市福田区景田东路36号润丰园一楼", "telList": "0755-83544233"}, {
+        "nameList": "交行华融支行",
+        "placeList": "深圳市福田区中心区民田路华融大厦1",
+        "telList": "0755-82707667"
+      }]
+    }, {
+      "title": "交通银行深圳分行公积金业务网点-南山区",
+      "list": [{
+        "nameList": "交行蛇口支行",
+        "placeList": "深圳市南山区蛇口太子路海景广场一楼",
+        "telList": "0755-26676882"
+      }, {"nameList": "交行南山支行", "placeList": "深圳市南山区南山大道西路钜建工业大厦首层", "telList": "0755-26650256"}, {
+        "nameList": "交行科技园支行",
+        "placeList": "深圳市南山区科技工业园科技大厦一层",
+        "telList": "0755-26617665"
+      }, {"nameList": "交行华侨城支行", "placeList": "深圳市南山区华侨城光侨街7号城市客栈首层", "telList": "0755-26920096"}, {
+        "nameList": "交行滨海支行",
+        "placeList": "深圳市南山区海德三道与文心四路交汇处滨海之窗首层",
+        "telList": "0755-86125702"
+      }]
+    }, {"title": "兴业银行深圳分行公积金业务网点-大鹏新区", "list": []}, {
+      "title": "兴业银行深圳分行公积金业务网点-光明区",
+      "list": []
+    }, {
+      "title": "兴业银行深圳分行公积金业务网点-龙岗区",
+      "list": [{
+        "nameList": "兴业银行横岗支行",
+        "placeList": "深圳市龙岗区横岗街道信义御城豪园1期1栋A座首层",
+        "telList": "0755-85239290"
+      }, {
+        "nameList": "兴业银行坂田支行",
+        "placeList": "深圳市龙岗区坂田街道雪岗路2018号天安云谷产业园一期一栋（乐购旁）",
+        "telList": "0755-89584942"
+      }, {
+        "nameList": "兴业银行布吉支行",
+        "placeList": "深圳市龙岗区布吉南城购物广场1栋01之（105、106、109）",
+        "telList": "0755-84509877"
+      }, {"nameList": "兴业银行龙岗支行", "placeList": "深圳市龙岗区龙翔大道与吉祥路交汇处公园大地一期112号、113号209至216商铺", "telList": "0755-33837816"}]
+    }, {
+      "title": "兴业银行深圳分行公积金业务网点-宝安区",
+      "list": [{
+        "nameList": "兴业银行西乡支行",
+        "placeList": "深圳市宝安区西乡街道新湖路圣淘沙骏园11栋市场101",
+        "telList": "0755-27674919"
+      }, {
+        "nameList": "兴业银行沙井支行",
+        "placeList": "深圳市宝安区沙井中心沙井商会大厦一楼兴业银行",
+        "telList": "0755-27201003"
+      }, {
+        "nameList": "兴业银行新安支行",
+        "placeList": "深圳市宝安区前进路新安街道办宝成10区泰华商业城第一、二层之一楼C-1",
+        "telList": "0755-29991117"
+      }, {"nameList": "兴业银行宝安支行", "placeList": "深圳市宝安区尚都花园北区一楼2-73至76号及2-296号铺位", "telList": "0755-29665617"}]
+    }, {"title": "兴业银行深圳分行公积金业务网点-坪山区", "list": []}, {
+      "title": "兴业银行深圳分行公积金业务网点-龙华区",
+      "list": [{
+        "nameList": "兴业银行深圳民治支行",
+        "placeList": "深圳市龙华区民治办事处梅龙路与中梅路交汇处光浩国际中心A座101、B座603",
+        "telList": "0755-32960961"
+      }, {
+        "nameList": "兴业银行龙华支行",
+        "placeList": "深圳市龙华区龙华街道办东环一路南方明珠商业城首层S47-52",
+        "telList": "0755-32960967、0755-32960963"
+      }]
+    }, {
+      "title": "兴业银行深圳分行公积金业务网点-盐田区",
+      "list": [{"nameList": "兴业银行盐田支行", "placeList": "深圳市盐田区海涛路东和大厦一层C区", "telList": "0755-25262193"}]
+    }, {
+      "title": "兴业银行深圳分行公积金业务网点-南山区",
+      "list": [{
+        "nameList": "兴业银行深圳前海分行营业部",
+        "placeList": "深圳市南山区前海深港合作区前湾一路63号前海企业公馆15B栋1，2，3层",
+        "telList": "0755-32960982"
+      }, {
+        "nameList": "兴业银行深圳软件园支行",
+        "placeList": "深圳市南山区后海大道2388号怡化金融科技大厦一层",
+        "telList": "0755-86968062"
+      }, {
+        "nameList": "兴业银行高新区支行",
+        "placeList": "深圳市南山区高新技术产业园高新南一道创维大厦一楼",
+        "telList": "0755-26743670"
+      }, {
+        "nameList": "兴业银行华侨城支行",
+        "placeList": "深圳市南山区华侨城益田假日广场B1楼29号商铺",
+        "telList": "0755-86298422"
+      }, {
+        "nameList": "兴业银行南山支行",
+        "placeList": "深圳市南山区南山大道1111南海大厦一楼109至110、111号",
+        "telList": "0755-86280902"
+      }, {
+        "nameList": "兴业银行科技园支行",
+        "placeList": "深圳市南山区高新园北环大道9018号大族创新大厦A区1层101室",
+        "telList": "0755-83618493"
+      }, {
+        "nameList": "兴业银行蛇口支行",
+        "placeList": "深圳市南山区蛇口荣村工业厂房F座一楼东面部分物业",
+        "telList": "0755-83827380"
+      }, {"nameList": "兴业银行南新支行", "placeList": "深圳市南山区南新路南海台大厦一楼", "telList": "0755-26077016"}, {
+        "nameList": "兴业银行后海支行",
+        "placeList": "深圳市南山区中心路恒裕滨城商铺125-131（2号线湾厦地铁站东A出口150米）",
+        "telList": "0755-21618821"
+      }]
+    }, {
+      "title": "兴业银行深圳分行公积金业务网点-罗湖区",
+      "list": [{
+        "nameList": "兴业银行深圳水贝支行",
+        "placeList": "深圳市罗湖区水贝水田二街三号1栋一楼A05-08、二楼B07、B08",
+        "telList": "0755-22317960"
+      }, {
+        "nameList": "兴业银行和平支行",
+        "placeList": "深圳市罗湖区嘉宾路4028号太平洋商贸大厦一楼102号",
+        "telList": "0755-82136848"
+      }, {
+        "nameList": "兴业银行文锦支行",
+        "placeList": "深圳市罗湖区文锦中路竹边大厦BC裙楼首层21号",
+        "telList": "0755-82399930"
+      }, {"nameList": "兴业银行罗湖支行", "placeList": "深圳市罗湖区春风路3013号国晖大厦一楼", "telList": "0755-25179183"}]
+    }, {
+      "title": "兴业银行深圳分行公积金业务网点-福田区",
+      "list": [{
+        "nameList": "兴业银行深圳景田支行",
+        "placeList": "深圳市福田区景田南路聚豪园聚友阁101-A",
+        "telList": "0755-83163867"
+      }, {
+        "nameList": "兴业银行天安支行",
+        "placeList": "深圳市福田区天安创新科技广场A座101单元",
+        "telList": "0755-83432042"
+      }, {
+        "nameList": "兴业银行皇岗支行",
+        "placeList": "深圳市福田区福民路与益田路交汇处高发城驰裙楼首层101-102",
+        "telList": "0755-82576462"
+      }, {
+        "nameList": "兴业银行中心区支行",
+        "placeList": "深圳市福田区彩田路5015号中银大厦A座一楼C103、C104",
+        "telList": "0755-83509208"
+      }, {
+        "nameList": "兴业银行深南支行",
+        "placeList": "深圳市福田区深南中路3039号国际文化大厦1C",
+        "telList": "0755-83293986"
+      }, {
+        "nameList": "兴业银行华富支行",
+        "placeList": "深圳市福田区振华路122号海外装饰大厦一楼",
+        "telList": "0755-83325747"
+      }, {
+        "nameList": "兴业银行上步支行",
+        "placeList": "深圳市福田区深南中路2050号华南电力大厦一楼",
+        "telList": "0755-83267796"
+      }, {
+        "nameList": "兴业银行科技支行",
+        "placeList": "深圳市福田区上步中路1001号科技大厦一楼",
+        "telList": "0755-83699798"
+      }, {
+        "nameList": "兴业银行八卦岭支行",
+        "placeList": "深圳市福田区八卦岭八卦一路鹏盛年华一楼",
+        "telList": "0755-25982756"
+      }, {"nameList": "兴业银行分行营业部", "placeList": "深圳市福田区深南大道4013号兴业银行大厦1楼", "telList": "0755-82989362"}]
+    }, {
+      "title": "中信银行深圳分行公积金业务网点-大鹏新区",
+      "list": [{"nameList": "中信银行大鹏新区支行", "placeList": "深圳市大鹏新区金业大道140号生命科学产业园A1栋1楼", "telList": "0755-28397129"}]
+    }, {
+      "title": "中国银行深圳分行公积金业务网点-宝安区",
+      "list": [{"nameList": "中行石岩支行", "placeList": "深圳市宝安区石岩镇石岩大道28号", "telList": "0755-22337911"}, {
+        "nameList": "中行沙井支行",
+        "placeList": "深圳市宝安区沙井街道西环路2106号",
+        "telList": "0755-22336149"
+      }, {
+        "nameList": "中行机场支行",
+        "placeList": "深圳市宝安区机场道1011号机场信息指挥大厦一楼",
+        "telList": "0755-22336483"
+      }, {
+        "nameList": "中行宝安支行",
+        "placeList": "深圳市宝安区新中心区新安街道宝兴路西侧万骏经贸大厦1楼",
+        "telList": "0755-27781651"
+      }, {
+        "nameList": "中行桃源居支行",
+        "placeList": "深圳市宝安区西乡镇广深公路东侧世外桃源19栋首层",
+        "telList": "0755-22337144"
+      }, {"nameList": "中行松岗东方支行", "placeList": "深圳市宝安区松岗镇东方村曙光路14号", "telList": "0755-22336489"}, {
+        "nameList": "中行新沙支行",
+        "placeList": "深圳市宝安区沙井街道中心路锐钧商务大厦1B",
+        "telList": "0755-22336488"
+      }, {"nameList": "中行前进支行", "placeList": "深圳市宝安区前进一路冠利达大厦诺铂广场一层", "telList": "0755-22337004"}, {
+        "nameList": "中行福永支行",
+        "placeList": "深圳市宝安区福永镇福深大道9号",
+        "telList": "0755-22335044"
+      }, {
+        "nameList": "中行西乡支行",
+        "placeList": "深圳市宝安区西乡街道新湖路圣陶沙骏园1栋08-16号商铺",
+        "telList": "0755-22337040"
+      }, {"nameList": "中行新城支行", "placeList": "深圳市宝安区42区翻身路68号橙果酒店首层", "telList": "0755-22337017"}, {
+        "nameList": "中行新安支行",
+        "placeList": "深圳市宝安区创业路西路N5区德业新城花园A区1-2号楼2座103.105.106号商铺",
+        "telList": "0755-22335506"
+      }]
+    }, {
+      "title": "中国银行深圳分行公积金业务网点-龙华区",
+      "list": [{"nameList": "中行龙华支行", "placeList": "深圳市龙华区人民路北路442号", "telList": "0755-22338036"}, {
+        "nameList": "中行观澜支行",
+        "placeList": "深圳市龙华区观澜街道人民路东一号金通盛大厦一层",
+        "telList": "0755-22337934"
+      }]
+    }, {
+      "title": "中国银行深圳分行公积金业务网点-盐田区",
+      "list": [{
+        "nameList": "中行东部支行",
+        "placeList": "深圳市盐田区沙头角公园路59号",
+        "telList": "0755-22335588"
+      }, {
+        "nameList": "中行深圳东部保税区支行",
+        "placeList": "深圳市盐田区沙头角海山路28号和亨城市广场1层122号",
+        "telList": "0755-22336032"
+      }, {"nameList": "中行金港支行", "placeList": "深圳市盐田区盐田路与东海道交汇外金港盛世华庭裙楼首层113、114、115号商铺", "telList": "0755-22338392"}]
+    }, {
+      "title": "中国银行深圳分行公积金业务网点-南山区",
+      "list": [{
+        "nameList": "中行深大支行",
+        "placeList": "深圳市南山区南海大道3688号深圳大学教学楼C座一楼",
+        "telList": "0755-22337668"
+      }, {
+        "nameList": "中行中兴驻点办",
+        "placeList": "深圳市南山区高新南四道13号中兴通讯科技研发大楼一层西侧",
+        "telList": "0755-22335374"
+      }, {"nameList": "中行桃园路支行", "placeList": "深圳市南山区桃园路田厦金牛广场首层", "telList": "0755-22335229"}, {
+        "nameList": "中行南山支行",
+        "placeList": "深圳市南山区南山大道1157号",
+        "telList": "0755-22336713"
+      }, {
+        "nameList": "中行东角头支行",
+        "placeList": "深圳市南山区蛇口新街54号东部渔港综合楼首层",
+        "telList": "0755-22335454"
+      }, {"nameList": "中行招商路支行", "placeList": "深圳市南山区蛇口招商路132号", "telList": "0755-22338635"}, {
+        "nameList": "中行西丽支行",
+        "placeList": "深圳市南山区西丽留仙大道与沙河西路交汇处鼎新大厦东座一楼",
+        "telList": "0755-22336735"
+      }, {
+        "nameList": "中行南山区政府驻点",
+        "placeList": "深圳市南山区桃园路2号南山区政府C座3楼",
+        "telList": "0755-26571875"
+      }, {
+        "nameList": "中行科技园支行",
+        "placeList": "深圳市南山区科技园科苑路11号金融科技大厦A座一楼",
+        "telList": "0755-22337740"
+      }, {"nameList": "中行蛇口支行", "placeList": "深圳市南山区蛇口工业区太子路18号", "telList": "0755-22338720"}, {
+        "nameList": "中行侨城支行",
+        "placeList": "深圳市南山区沙河金三角综合大厦一楼",
+        "telList": "0755-22335405"
+      }, {
+        "nameList": "中行鹏龙支行",
+        "placeList": "深圳市南山区海德二道华彩新天地113A、115、116、123D铺位",
+        "telList": "0755-22338675"
+      }, {"nameList": "中行高新区支行", "placeList": "深圳市南山区高新技术产业园区南区联想大厦一楼", "telList": "0755-22337712"}]
+    }, {
+      "title": "中国银行深圳分行公积金业务网点-罗湖区",
+      "list": [{"nameList": "中行水库新村支行", "placeList": "深圳市罗湖区爱国路3042号", "telList": "0755-22337475"}, {
+        "nameList": "中行深南支行",
+        "placeList": "深圳市罗湖区深南东路5016号京基100大厦B座",
+        "telList": "0755-22338792"
+      }, {
+        "nameList": "中行罗湖支行",
+        "placeList": "深圳市罗湖区宝安南路2048号宝丽大厦一、二楼",
+        "telList": "0755-22338181"
+      }, {
+        "nameList": "中行市分行营业部",
+        "placeList": "深圳市罗湖区建设路2022号国际金融大厦一楼大堂",
+        "telList": "0755-22333964"
+      }, {"nameList": "中行中建大厦支行", "placeList": "深圳市罗湖区深南东路中建大厦一楼、十九楼", "telList": "0755-22336425"}, {
+        "nameList": "中行莲塘支行",
+        "placeList": "深圳市罗湖区罗沙路3048号",
+        "telList": "0755-22335598"
+      }, {
+        "nameList": "中行万象支行",
+        "placeList": "深圳市罗湖区宝安南路1036号鼎丰大厦首层10号-16号；二层9号-11号",
+        "telList": "0755-22338052"
+      }, {
+        "nameList": "中行文锦渡支行",
+        "placeList": "深圳市罗湖区深南东路2008京鹏大厦一、二楼东侧",
+        "telList": "0755-22336404"
+      }, {"nameList": "中行东门支行", "placeList": "深圳市罗湖区东门中路2020号东门金融大厦一楼", "telList": "0755-22337406"}]
+    }, {
+      "title": "中国银行深圳分行公积金业务网点-福田区",
+      "list": [{
+        "nameList": "中行福星支行",
+        "placeList": "深圳市福田区福田路24号海岸环庆大厦一层",
+        "telList": "0755-22333593"
+      }, {
+        "nameList": "中行泰然金谷支行",
+        "placeList": "深圳市福田区车公庙泰然九路红松大厦B区一层",
+        "telList": "0755-22334687"
+      }, {"nameList": "中行侨香支行", "placeList": "深圳市福田区侨香路翠海花园二期裙楼首层", "telList": "0755-22336557"}, {
+        "nameList": "中行福建大厦支行",
+        "placeList": "深圳市福田区福建大厦B座首层",
+        "telList": "0755-22338889"
+      }, {"nameList": "中行上步支行", "placeList": "深圳市福田区华富路1006号航都大厦首层", "telList": "0755-22338491"}, {
+        "nameList": "中行红岭支行",
+        "placeList": "深圳市福田区红岭南路红岭大厦一楼",
+        "telList": "0755-22338193"
+      }, {"nameList": "中行福田支行", "placeList": "深圳市福田区红荔路7028号香蜜新村一栋首层", "telList": "0755-83915500"}, {
+        "nameList": "中行福民支行",
+        "placeList": "深圳市福田区福民路中央花园会所首层",
+        "telList": "0755-22338867"
+      }, {"nameList": "中行中心区支行", "placeList": "深圳市福田区福华三路星河国际花园首层", "telList": "0755-22338934"}, {
+        "nameList": "中行福华支行",
+        "placeList": "深圳市福田区福华路购物公园北园D区104－106号",
+        "telList": "0755-22335675"
+      }, {
+        "nameList": "中行金地支行",
+        "placeList": "深圳市福田区新洲11街139号中央西谷大厦首层",
+        "telList": "0755-22334705"
+      }, {"nameList": "中行福强支行", "placeList": "深圳市福田区金田路1008号时代广场首层", "telList": "0755-22333567"}, {
+        "nameList": "中行中银花园支行",
+        "placeList": "深圳市福田区彩田路5015号中银花园首层",
+        "telList": "0755-22337644"
+      }, {"nameList": "中行竹子林支行", "placeList": "深圳市福田区竹子林中国经贸大厦首层", "telList": "0755-22330282"}, {
+        "nameList": "中行梅林支行",
+        "placeList": "深圳市福田区梅林路金鼎大厦首层",
+        "telList": "0755-22336532"
+      }, {"nameList": "中行荔园支行", "placeList": "深圳市福田区益民路通心岭新村39栋一楼", "telList": "0755-22338599"}, {
+        "nameList": "中行梅丽支行",
+        "placeList": "深圳市福田区下梅林梅林一村区26栋首层",
+        "telList": "0755-22337532"
+      }, {"nameList": "中行市民中心支行", "placeList": "深圳市福田区市民中心B1层", "telList": "0755-82001275"}, {
+        "nameList": "中行时代金融中心支行",
+        "placeList": "深圳市福田区深南大道以南、益田路以西时代金融中心101、102、103",
+        "telList": "0755-22335363"
+      }]
+    }, {
+      "title": "建设银行深圳分行公积金业务网点-大鹏新区",
+      "list": [{
+        "nameList": "建行葵涌支行",
+        "placeList": "深圳市大鹏新区葵涌办事处葵政西路12号所在楼栋101",
+        "telList": "0755-84204244"
+      }, {"nameList": "建行大鹏支行", "placeList": "深圳市大鹏新区中山路71-2号", "telList": "0755-89557985"}]
+    }, {
+      "title": "建设银行深圳分行公积金业务网点-坪山区",
+      "list": [{
+        "nameList": "建行坑梓支行",
+        "placeList": "深圳市坪山区坑梓办事处人民西路22号",
+        "telList": "0755-84533285"
+      }, {"nameList": "建行坪山支行", "placeList": "深圳市坪山区坪山街道金山路5号", "telList": "0755-84283735"}, {
+        "nameList": "建行大工业支行",
+        "placeList": "深圳市坪山区坪山街道金山路5号",
+        "telList": "0755-84283735"
+      }]
+    }, {
+      "title": "建设银行深圳分行公积金业务网点-光明区",
+      "list": [{
+        "nameList": "建行公明支行",
+        "placeList": "深圳市光明区光明新区公明街道振明路福盈中央山花园北区A01-10、B04-08商铺",
+        "telList": "0755-21024903、21024948"
+      }, {"nameList": "建行光明区支行", "placeList": "光明区光明大道滨河苑4栋首层", "telList": "0755-27405898"}]
+    }, {
+      "title": "建设银行深圳分行公积金业务网点-龙岗区",
+      "list": [{
+        "nameList": "建行华南城支行",
+        "placeList": "深圳市龙岗区平湖街道华南城华南发展中心一楼建行",
+        "telList": "0755-84557301"
+      }, {"nameList": "建行龙兴支行", "placeList": "深圳市龙岗区龙岗街道龙园路九州家园三栋首层", "telList": "0755-89612239"}, {
+        "nameList": "建行双龙支行",
+        "placeList": "深圳市龙岗区龙岗街道龙岗路19号东森大厦101A",
+        "telList": "0755-84800672"
+      }, {
+        "nameList": "建行坂田支行",
+        "placeList": "深圳市龙岗区坂田街道雪岗路2018号天安云谷产业园一期2栋一层101-103",
+        "telList": "0755-28227407"
+      }, {"nameList": "建行南岭支行", "placeList": "深圳市龙岗区布吉南岭村开放街三号南岭建行", "telList": "0755-85223704"}, {
+        "nameList": "建行坪地支行",
+        "placeList": "深圳市龙岗区坪地街道龙岗大道3018号宜城广城B区21号铺位",
+        "telList": "0755-89947106"
+      }, {"nameList": "建行布吉支行", "placeList": "深圳市龙岗区布吉街道布吉镇金鹏路第二统建楼", "telList": "0755-84179429"}, {
+        "nameList": "建行龙岗支行",
+        "placeList": "深圳市龙岗区中心城龙翔路909号珠江国际中心D栋一楼",
+        "telList": "0755-84583713"
+      }, {
+        "nameList": "建行横岗支行",
+        "placeList": "深圳市龙岗区横岗信义锦绣花园6号楼一楼(横岗交警中队后面)",
+        "telList": "0755-28240755"
+      }, {"nameList": "建行龙城支行", "placeList": "深圳市龙岗区中心城龙福西路龙城国际花园裙楼", "telList": "0755-84515170"}, {
+        "nameList": "建行平湖支行",
+        "placeList": "深圳市龙岗区平湖街道平湖社区凤凰大道146号平湖凤凰新村商务酒店1楼101号",
+        "telList": "0755-84002619"
+      }, {"nameList": "建行吉华支行", "placeList": "深圳市龙岗区布吉中心花园商铺一楼", "telList": "0755-28533716"}]
+    }, {
+      "title": "建设银行深圳分行公积金业务网点-龙华区",
+      "list": [{
+        "nameList": "建行大浪支行",
+        "placeList": "深圳市龙华区大浪街道华荣北路明君商务中心一楼",
+        "telList": "0755-23002572"
+      }, {
+        "nameList": "建行龙华支行",
+        "placeList": "深圳市龙华区龙华镇人民路宝龙大厦",
+        "telList": "0755-27748342、0755-27743058"
+      }, {"nameList": "建行观澜支行", "placeList": "深圳市龙华区观澜街道大和路观澜商务大厦一、二层", "telList": "0755-28083418"}]
+    }, {
+      "title": "建设银行深圳分行公积金业务网点-盐田区",
+      "list": [{
+        "nameList": "建行盐田支行",
+        "placeList": "深圳市盐田区万科壹海城一楼166-174号商铺",
+        "telList": "0755-25350991"
+      }, {"nameList": "建行沙头角支行", "placeList": "深圳市盐田区沙头角金融路95号", "telList": "0755-25550215"}]
+    }, {
+      "title": "建设银行深圳分行公积金业务网点-南山区",
+      "list": [{
+        "nameList": "建行南山大道支行",
+        "placeList": "深圳市南山区桃园路和南山大道交汇处田厦国际中心首层",
+        "telList": "0755-26568883"
+      }, {"nameList": "建行蛇口支行", "placeList": "深圳市南山区蛇口太子路18号海景广场一楼", "telList": "0755-26826276"}, {
+        "nameList": "建行华侨城支行",
+        "placeList": "深圳市南山区华侨城兴隆街22号湖滨花园一楼",
+        "telList": "0755-26922082"
+      }, {
+        "nameList": "建行深圳南油支行",
+        "placeList": "深圳市南山区创业路西海湾花园首层一号建行南油支行",
+        "telList": "0755-26091767"
+      }, {
+        "nameList": "建行高新园支行",
+        "placeList": "深圳市南山区高新技术产业园南区高新南一道中国科技开发院三号楼裙楼",
+        "telList": "0755-86079257"
+      }, {"nameList": "建行科苑支行", "placeList": "深圳市南山区科技园科发路8号金融基地1栋首层", "telList": "0755-86627155"}, {
+        "nameList": "建行南山支行",
+        "placeList": "深圳市南山区海岸城海德三道文心四路天利名城2楼",
+        "telList": "0755-86545019"
+      }, {
+        "nameList": "建行西丽支行",
+        "placeList": "深圳市南山区西丽街道沙河以西、留仙大道以北南国丽城花园2栋1F33-39",
+        "telList": "0755-86155071"
+      }, {"nameList": "建行前海支行", "placeList": "深圳市南山区前海路与学府路交汇处新德家园一楼", "telList": "0755-86672522"}]
+    }, {
+      "title": "建设银行深圳分行公积金业务网点-宝安区",
+      "list": [{
+        "nameList": "建行新岸线支行",
+        "placeList": "深圳市宝安区新安街道新安大道南侧深业新岸线一楼",
+        "telList": "0755-29789861"
+      }, {
+        "nameList": "建行宝城支行",
+        "placeList": "深圳市宝安区兴华一路与富春街交汇处壹方中心九誉5号楼一、二楼",
+        "telList": "0755-29997612、29665474"
+      }, {"nameList": "建行新城支行", "placeList": "深圳市宝安区46区创业一路综合楼B座一楼", "telList": "0755-27887081"}, {
+        "nameList": "建行楼岗支行",
+        "placeList": "深圳市宝安区松岗街道楼岗大道80-8集信大厦首层",
+        "telList": "0755-27089600"
+      }, {
+        "nameList": "建行石岩支行",
+        "placeList": "深圳市宝安区石岩街道浪心社区宝石南路宏发大世界一层D1—01A号",
+        "telList": "0755-29049010"
+      }, {
+        "nameList": "建行沙井支行",
+        "placeList": "深圳市宝安区沙井街道新沙路华盛新沙荟名庭二期一楼",
+        "telList": "0755-27288683"
+      }, {"nameList": "建行创业支行", "placeList": "深圳市宝安区34区雅豪轩首层", "telList": "0755-23235862"}, {
+        "nameList": "建行机场支行",
+        "placeList": "深圳市宝安区机场航站三路华茂航空酒店（旁边）",
+        "telList": "0755-27777881、29982360"
+      }, {
+        "nameList": "建行松岗支行",
+        "placeList": "深圳市宝安区松岗街道松明大道1号一楼（松乔酒店旁边）",
+        "telList": "0755-27147963,0755-23215325"
+      }, {
+        "nameList": "建行福永支行",
+        "placeList": "深圳市宝安区福永街道福永大道3号汉永楼B楼一楼（宝利来酒店旁）",
+        "telList": "0755-85256441"
+      }, {"nameList": "建行宝安支行", "placeList": "深圳市宝安区建安一路68号", "telList": "0755-29649320"}]
+    }, {
+      "title": "建设银行深圳分行公积金业务网点-福田区",
+      "list": [{
+        "nameList": "建行莲花山支行",
+        "placeList": "深圳市福田区红荔西路5004号莲花大厦",
+        "telList": "0755-88917764"
+      }, {
+        "nameList": "建行益民支行",
+        "placeList": "深圳市福田区福民路共和世家一楼建行（福田区委东面，苏宁电器旁边）",
+        "telList": "0755-83844043"
+      }, {"nameList": "建行益田支行", "placeList": "深圳市福田区益田村23栋", "telList": "0755-83806129"}, {
+        "nameList": "建行振华支行",
+        "placeList": "深圳市福田区振华路8号设计大厦一楼",
+        "telList": "0755-83786030"
+      }, {"nameList": "建行香蜜湖支行", "placeList": "深圳市福田区香梅路中投国际中心B座一楼", "telList": "0755-23934801"}, {
+        "nameList": "建行景苑支行",
+        "placeList": "深圳市福田区新闻路合正名园首层C座",
+        "telList": "0755-83732141"
+      }, {
+        "nameList": "建行莲花北支行",
+        "placeList": "深圳市福田区雨田路莲花北村富莲大厦2栋首层",
+        "telList": "0755-83166472"
+      }, {
+        "nameList": "建行福田保税区支行",
+        "placeList": "深圳市福田区福田保税区绒花路8号深福保大厦一楼",
+        "telList": "0755-83483597"
+      }, {"nameList": "建行深南中路支行", "placeList": "深圳市福田区深南中路万德大厦一楼", "telList": "0755-82136281"}, {
+        "nameList": "建行上步支行",
+        "placeList": "深圳市福田区福华路荣超城市春天花园5栋1楼",
+        "telList": "0755-82541606"
+      }, {"nameList": "建行福田支行", "placeList": "深圳市福田区金田路大中华交易广场西侧一楼", "telList": "0755-82796438"}, {
+        "nameList": "建行中心区支行",
+        "placeList": "深圳市福田区福田中心区益田路4068号卓越时代广场西1楼",
+        "telList": "0755-23989381"
+      }, {
+        "nameList": "建行中旅公馆支行",
+        "placeList": "深圳市福田区农园路中旅国际公馆二期商铺",
+        "telList": "0755-83556281"
+      }, {
+        "nameList": "建行深圳国会大厦支行",
+        "placeList": "深圳市福田区福华一路国际商会大厦首层建行",
+        "telList": "0755-82934442"
+      }, {"nameList": "建行深圳铁路支行", "placeList": "深圳市福田区新洲九街福昌苑首层", "telList": "0755-83305703"}, {
+        "nameList": "建行分行营业部",
+        "placeList": "深圳市福田区益田路6003号荣超商务中心B座一楼建行营业部",
+        "telList": "0755-23828387"
+      }, {
+        "nameList": "建行住房城市建设支行",
+        "placeList": "深圳市福田区红荔路1001号银荔大厦一楼（青少年活动中心）",
+        "telList": "0755-82095278"
+      }, {"nameList": "建行泰然支行", "placeList": "深圳市福田区泰然四路泰然工业区304栋首层", "telList": "0755-83862300"}]
+    }, {
+      "title": "建设银行深圳分行公积金业务网点-罗湖区",
+      "list": [{
+        "nameList": "建行宝安路支行",
+        "placeList": "深圳市罗湖区宝安南路西湖花园一楼",
+        "telList": "0755-25575786"
+      }, {"nameList": "建行田背支行", "placeList": "深圳市罗湖区洪湖路29号湖景花园首层南座", "telList": "0755-25604851"}, {
+        "nameList": "建行黄贝岭支行",
+        "placeList": "深圳市罗湖区深南东路2001号鸿昌广场一楼",
+        "telList": "0755-82303794"
+      }, {"nameList": "建行城东支行", "placeList": "深圳市罗湖区东门南路3002号华都园大厦一楼", "telList": "0755-82389603"}, {
+        "nameList": "建行东湖支行",
+        "placeList": "深圳市罗湖区太宁路28号百仕达花园百怡苑18栋103商铺",
+        "telList": "0755-22360184，0755-22362149"
+      }, {"nameList": "建行和平路支行", "placeList": "深圳市罗湖区和平路1121号", "telList": "0755-82476108"}, {
+        "nameList": "建行建设路支行",
+        "placeList": "深圳市罗湖区深南东路2102号振华大厦一二层",
+        "telList": "0755-22901654"
+      }, {"nameList": "建行凤凰支行", "placeList": "深圳市罗湖区文锦中路海丽大厦一楼", "telList": "0755-25668485"}, {
+        "nameList": "建行莲塘支行",
+        "placeList": "深圳市罗湖区罗沙路3040号莲塘工业区建行大厦一楼（通宝酒楼旁、莲塘医院后）",
+        "telList": "0755-25738424"
+      }, {"nameList": "建行罗湖支行", "placeList": "深圳市罗湖区红岭南路金融中心建行大厦一楼", "telList": "0755-82488262"}]
+    }, {
+      "title": "工商银行深圳分行公积金业务网点-龙岗区",
+      "list": [{
+        "nameList": "工行坂田支行",
+        "placeList": "深圳市龙岗区坂田街道五和大道黄君山区111号B栋首层",
+        "telList": "0755-28893815"
+      }, {"nameList": "工行龙城支行", "placeList": "深圳市龙岗区天安数码创新园三号厂房B102", "telList": "0755-28996249"}, {
+        "nameList": "工行华为支行",
+        "placeList": "深圳市龙岗区坂田华为基地隆平路与坂雪岗大道路口神州百瑞达大酒店一层",
+        "telList": "0755-89603056"
+      }, {"nameList": "工行横岗支行", "placeList": "深圳市龙岗区横岗街道东城中心花园裙楼132号", "telList": "0755-28433022"}, {
+        "nameList": "工行龙岗支行",
+        "placeList": "深圳市龙岗区中心城新亚洲花园10区商业街商铺一层",
+        "telList": "0755-28939513"
+      }, {"nameList": "工行布吉支行", "placeList": "深圳市龙岗区布吉街道布吉路85号吉信大厦一层", "telList": "0755-28872087"}]
+    }, {
+      "title": "工商银行深圳分行公积金业务网点-坪山区",
+      "list": [{"nameList": "工行坪山支行", "placeList": "深圳市坪山区坪山街道和平社区和平路47-1号", "telList": "0755-84536987"}]
+    }, {
+      "title": "工商银行深圳分行公积金业务网点-光明区",
+      "list": [{
+        "nameList": "工行公明支行",
+        "placeList": "深圳市光明区公明办事处别墅路13号一楼",
+        "telList": "0755-27156668"
+      }, {
+        "nameList": "工行合水口支行",
+        "placeList": "深圳市光明区公明办事处宝安路第12号1楼A1",
+        "telList": "0755-29429481"
+      }, {"nameList": "工行光明支行", "placeList": "深圳市光明区光明街道华夏路怡景园7栋裙楼", "telList": "0755-29199166"}]
+    }, {
+      "title": "工商银行深圳分行公积金业务网点-大鹏新区",
+      "list": [{"nameList": "工行葵涌支行", "placeList": "深圳市大鹏新区葵涌街道葵新北路13号", "telList": "0755-84207045"}]
+    }, {
+      "title": "工商银行深圳分行公积金业务网点-宝安区",
+      "list": [{
+        "nameList": "工行熙龙湾支行",
+        "placeList": "深圳市宝安区海秀路19号国际西岸商务大厦1层",
+        "telList": "0755-29073025"
+      }, {
+        "nameList": "工行福永支行",
+        "placeList": "深圳市宝安区福永街道办白石厦社区福永大道汉永楼首层101号",
+        "telList": "0755-27389350"
+      }, {"nameList": "工行宝安支行", "placeList": "深圳市宝安区建安一路56号", "telList": "0755-27880125"}, {
+        "nameList": "工行新沙支行",
+        "placeList": "深圳市宝安区沙井街道中心路沙井时代中心一楼",
+        "telList": "0755-23015002"
+      }, {"nameList": "工行石岩支行", "placeList": "深圳市宝安区石岩镇宝石东路413号", "telList": "0755-27350749"}]
+    }, {
+      "title": "工商银行深圳分行公积金业务网点-盐田区",
+      "list": [{"nameList": "工行盐田支行", "placeList": "深圳市盐田区沙头角金融路99号", "telList": "0755-25558380"}]
+    }, {
+      "title": "工商银行深圳分行公积金业务网点-龙华区",
+      "list": [{
+        "nameList": "工行观澜湖支行",
+        "placeList": "深圳市龙华区观澜街道广培社区高尔夫大道8号5栋1楼",
+        "telList": "0755-23773461"
+      }, {"nameList": "工行龙华支行", "placeList": "深圳市龙华区龙华街道人民北路工行大楼", "telList": "0755-29190608"}, {
+        "nameList": "工行观澜支行",
+        "placeList": "深圳市龙华区观澜中航格澜阳光花园商业B2栋一层",
+        "telList": "0755-23270620"
+      }]
+    }]
 }

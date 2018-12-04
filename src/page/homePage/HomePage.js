@@ -67,7 +67,7 @@ export default class HomePage extends Component {
           icon: "ios-list-box",
           color: "#f5bf2d",
           size: 36,
-          target: "MyFund",
+          target: "FundReport",
         },
         {
           name: "业务办理地点",

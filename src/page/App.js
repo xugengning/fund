@@ -24,6 +24,7 @@ import HistoryDetail from './myPage/HistoryDetail'
 import SecurityCalculator from './security/SecurityCalculator'
 import Location from './location/Location'
 import WorkPlace from './location/WorkPlace'
+import PlaceDetail from './location/PlaceDetail'
 
 const HomeStack = createStackNavigator({
   Home: {
@@ -116,8 +117,14 @@ const HomeStack = createStackNavigator({
       title: "业务办理地点"
     }
   },
+  PlaceDetail: {
+    screen: PlaceDetail,
+    navigationOptions: {
+      title: "办理地点列表"
+    }
+  },
 }, {
-  initialRouteName: "Home",
+  initialRouteName: "WorkPlace",
   defaultNavigationOptions: {
     headerStyle: {
       backgroundColor: "#4a98f0",
