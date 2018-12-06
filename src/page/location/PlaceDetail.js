@@ -21,10 +21,8 @@ export default class WorkPlace extends Component {
   componentWillMount() {
     const {navigation} = this.props;
     const target = navigation.getParam('target')
-    console.log(target);
     const index = placeDetail.findIndex((item) => item.title == target)
 
-    console.log(index);
     this.setState({
       listData: placeDetail[index]
     })

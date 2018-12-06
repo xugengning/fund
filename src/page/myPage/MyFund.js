@@ -16,12 +16,12 @@ export default class MyFund extends Component {
   render() {
     const list = [
       {
-        name: '历史',
-        subtitle: 'History'
-      },
-      {
         name: '收藏',
         subtitle: 'Save'
+      },
+      {
+        name: '历史记录',
+        subtitle: 'History'
       },
       {
         name: '隐私协议',

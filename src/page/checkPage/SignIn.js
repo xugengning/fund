@@ -2,8 +2,7 @@ import React, {Component} from 'react';
 import {
   StyleSheet,
   View,
-  TouchableOpacity,
-  ActionSheetIOS,
+  AsyncStorage,
   ActivityIndicator
 } from 'react-native';
 import HttpUtils from "../../common/HttpUtils"
@@ -64,8 +63,33 @@ export default class HomePage extends Component {
 
     HttpUtils.get(url).then((res) => {
       console.log(res);
-      _this.getFundData(res.token)
+      _this.checkState(res.token)
     })
+  }
+
+  checkState = (token) => {
+    const _this = this
+
+    HttpUtils.get(`${shujuHost}qStatus?appKey=${appKey}&token=${token}`)
+      .then((res) => {
+        console.log(res);
+        if (res.status == '1') {
+          _this.getFundData(token)
+        } else {
+          setTimeout(() => {
+            _this.checkState(token)
+          }, 5000)
+        }
+      })
+  }
+
+  storeData = async (key, data) => {
+    try {
+      await AsyncStorage.setItem(key, data);
+      console.log(1);
+    } catch (error) {
+      console.log(error);
+    }
   }
 
   getFundData = (token) => {
@@ -74,9 +98,20 @@ export default class HomePage extends Component {
     HttpUtils.get(`${shujuHost}getData?appKey=${appKey}&token=${token}`)
       .then((res) => {
         if (res.data) {
-          _this.setState({
+          console.log(res.data);
+          this.storeData("fundInfo", JSON.stringify(res.data))
+
+          this.setState({
             loadingState: false
           })
+
+          this.props.navigation.navigate('FundInfo', {
+            fundData: res.data
+          })
+        } else {
+          setTimeout(() => {
+            _this.getFundData(token)
+          }, 1000)
         }
         console.log(res);
       })

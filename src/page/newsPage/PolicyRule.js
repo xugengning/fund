@@ -7,19 +7,16 @@ import {
 } from 'react-native';
 import {List, ListItem, ButtonGroup} from "react-native-elements"
 import {
-  statisticalInfo,
-  announcementsData,
-  workDynamicData,
   policyRule,
   policyResolve
 } from '../../staticData/staticData'
 
-export default class HomePage extends Component {
+export default class PolicyRule extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      btnGroup: ['统计', '公告', '动态'],
-      dataGroup: [statisticalInfo, announcementsData, workDynamicData],
+      btnGroup: ['政策法规', '政策解读'],
+      dataGroup: [policyRule, policyResolve],
       selectedIndex: 0
     }
     this.listData = []

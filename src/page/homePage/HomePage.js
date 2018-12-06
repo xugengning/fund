@@ -28,18 +28,18 @@ export default class HomePage extends Component {
           target: "Check",
         },
         {
-          name: "业务查询",
+          name: "中心公告",
           icon: "ios-wallet",
           color: "#699846",
           size: 36,
-          target: "MyFund",
+          target: "FundReport",
         },
         {
           name: "楼盘信息查询",
           icon: "ios-stats",
           color: "#008296",
           size: 36,
-          target: "MyFund",
+          target: "HouseConstraint",
         },
         {
           name: "公积金计算器",
@@ -67,7 +67,7 @@ export default class HomePage extends Component {
           icon: "ios-list-box",
           color: "#f5bf2d",
           size: 36,
-          target: "FundReport",
+          target: "PolicyRule",
         },
         {
           name: "业务办理地点",

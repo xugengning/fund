@@ -7,16 +7,18 @@
  */
 
 import React, {Component} from 'react';
-import {createBottomTabNavigator, createAppContainer, createStackNavigator} from 'react-navigation';
-import Icon from 'react-native-vector-icons/Ionicons'
+import {createAppContainer, createStackNavigator} from 'react-navigation';
 import HomePage from './homePage/HomePage'
 import MyWebView from './MyWebView'
 import FundCalculator from './homePage/FundCalculator'
 import LoanCalculator from './homePage/LoanCalculator'
 import CheckFund from './checkPage/CheckFund'
 import SignIn from './checkPage/SignIn'
+import FundInfo from './checkPage/FundInfo'
+import BaseInfo from './checkPage/BaseInfo'
 import FundReport from './newsPage/FundReport'
 import ReportDetail from './newsPage/ReportDetail'
+import PolicyRule from './newsPage/PolicyRule'
 import MyFund from './myPage/MyFund'
 import History from './myPage/History'
 import Save from './myPage/Save'
@@ -25,6 +27,8 @@ import SecurityCalculator from './security/SecurityCalculator'
 import Location from './location/Location'
 import WorkPlace from './location/WorkPlace'
 import PlaceDetail from './location/PlaceDetail'
+import HouseConstraint from './house/HouseConstraint'
+import HouseDetail from './house/HouseDetail'
 
 const HomeStack = createStackNavigator({
   Home: {
@@ -87,10 +91,28 @@ const HomeStack = createStackNavigator({
       title: "登录"
     }
   },
+  FundInfo: {
+    screen: FundInfo,
+    navigationOptions: {
+      title: "公积金"
+    }
+  },
+  BaseInfo: {
+    screen: BaseInfo,
+    navigationOptions: {
+      title: "账号信息"
+    }
+  },
   FundReport: {
     screen: FundReport,
     navigationOptions: {
       title: "公告"
+    }
+  },
+  PolicyRule: {
+    screen: PolicyRule,
+    navigationOptions: {
+      title: "政策法规"
     }
   },
   ReportDetail: {
@@ -123,8 +145,20 @@ const HomeStack = createStackNavigator({
       title: "办理地点列表"
     }
   },
+  HouseConstraint: {
+    screen: HouseConstraint,
+    navigationOptions: {
+      title: "楼盘信息"
+    }
+  },
+  HouseDetail: {
+    screen: HouseDetail,
+    navigationOptions: {
+      title: "楼盘详情"
+    }
+  },
 }, {
-  initialRouteName: "WorkPlace",
+  initialRouteName: "Home",
   defaultNavigationOptions: {
     headerStyle: {
       backgroundColor: "#4a98f0",
