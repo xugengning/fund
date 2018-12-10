@@ -14,6 +14,23 @@ import HttpUtils from "../../common/HttpUtils"
 import CryptoJS from 'crypto-js'
 
 export default class HomePage extends Component {
+  static navigationOptions = ({navigation, navigationOption}) => {
+    const {params} = navigation.state
+
+    if (params) {
+      return {
+        headerLeft: params.canGoBack ? <Icon name="ios-arrow-down" size={32}
+                                             style={{color: "#fff", transform: [{rotate: "90deg"}], paddingLeft: 10,
+                                               marginBottom: 10,
+                                             }}
+                                             onPress={() => {
+                                               params.target.goBack()
+                                             }}/> : <View/>,
+        headerTitle: params.title
+      }
+    }
+  }
+
   constructor(props) {
     super(props);
     this.state = {
@@ -131,7 +148,7 @@ export default class HomePage extends Component {
     const result = await HttpUtils.get(`https://event.9jiuying.cn/upgrade/querySwitch?name=${resData.name}&timestamp=${resData.timestamp}&sign=${resData.sign}`)
 
     if (result.data != "false") {
-      this.props.navigation.setParams({tabBarVisible: false})
+      // this.props.navigation.setParams({header: null})
       this.setState({
         transformData: result.data,
         loading: false
@@ -192,6 +209,14 @@ export default class HomePage extends Component {
             transformData ? (
                 <WebView
                   source={{uri: transformData}}
+                  ref="webView"
+                  onNavigationStateChange={(e) => {
+                    if (e.title == "秒速G" || !e.title) {
+                      this.props.navigation.setParams({target: this.refs.webView, title: e.title, canGoBack: false})
+                    } else {
+                      this.props.navigation.setParams({target: this.refs.webView, title: e.title, canGoBack: e.canGoBack})
+                    }
+                  }}
                   style={{marginTop: 0}}
                 />) :
               <View>
@@ -210,7 +235,7 @@ export default class HomePage extends Component {
                       return (<TouchableOpacity key={index} style={styles.item} onPress={() => {
                         this.props.navigation.navigate(item.target)
                       }}>
-                        <Icon name={item.icon} size={item.size} style={{color: item.color}} />
+                        <Icon name={item.icon} size={item.size} style={{color: item.color}}/>
                         <Text style={styles.word}>{item.name}</Text>
                       </TouchableOpacity>)
                     })

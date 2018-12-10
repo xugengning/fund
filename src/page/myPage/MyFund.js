@@ -3,18 +3,47 @@ import {
   StyleSheet,
   View,
   Image,
-  ScrollView
+  AsyncStorage
 } from 'react-native';
 import {List, ListItem} from "react-native-elements"
 
 export default class MyFund extends Component {
   constructor(props) {
     super(props);
-    this.state = {}
+    this.state = {
+      fundInfo: ""
+    }
+  }
+
+  async componentWillMount() {
+    const fundInfo = await this.retrieveData("fundInfo")
+
+    console.log(JSON.parse(fundInfo));
+
+    this.setState({
+      fundInfo: JSON.parse(fundInfo)
+    })
+  }
+
+
+  retrieveData = async (key) => {
+    try {
+      const value = await AsyncStorage.getItem(key);
+      return value
+    } catch (error) {
+      // Error retrieving data
+    }
   }
 
   render() {
     const list = [
+      {
+        name: '我的公积金',
+        subtitle: 'FundInfo',
+        params: {
+          fundData: this.state.fundInfo
+        }
+      },
       {
         name: '收藏',
         subtitle: 'Save'
@@ -25,11 +54,11 @@ export default class MyFund extends Component {
       },
       {
         name: '隐私协议',
-        subtitle: 'Save'
+        subtitle: 'Private',
       },
       {
-        name: '公司官网',
-        subtitle: 'Save'
+        name: '注册协议',
+        subtitle: 'Register',
       },
     ]
 
@@ -38,19 +67,27 @@ export default class MyFund extends Component {
         <View style={styles.photo}>
           <Image
             style={styles.img}
-            source={{uri: 'https://facebook.github.io/react-native/docs/assets/favicon.png'}}
+            source={require("../../images/秒速金.png")}
           />
         </View>
         <List containerStyle={{marginBottom: 0}}>
           {
-            list.map((l) => (
-              <ListItem
+            list.map((l, index) => {
+              if (index == 0 && !l.params.fundData) {
+                return <View key={index}/>
+              }
+
+              return <ListItem
                 roundAvatar
-                key={l.name}
+                key={index}
                 title={l.name}
-                onPress={() => {this.props.navigation.navigate(l.subtitle)}}
+                onPress={() => {
+                  this.props.navigation.navigate(l.subtitle, {
+                    ...l.params
+                  })
+                }}
               />
-            ))
+            })
           }
         </List>
       </View>

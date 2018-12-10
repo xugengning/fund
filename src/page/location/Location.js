@@ -43,7 +43,6 @@ export default class Location extends Component {
   }
 
   componentWillMount() {
-
     const {navigation} = this.props;
     const name = navigation.getParam('name')
     const address = navigation.getParam('address')
@@ -68,6 +67,7 @@ export default class Location extends Component {
   getLocation = () => {
     Geolocation.getCurrentPosition()
       .then(data => {
+        console.log(data);
         this.setState({
           zoom: 15,
           marker: {
@@ -83,6 +83,7 @@ export default class Location extends Component {
         });
       })
       .catch(e => {
+        console.log(e);
         console.warn(e, 'error');
       })
   }

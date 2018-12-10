@@ -1,7 +1,8 @@
 import React, {Component} from 'react';
 import {
   StyleSheet,
-  View
+  View,
+  ScrollView
 } from 'react-native';
 import {FormLabel, FormInput, FormValidationMessage, Button, Text} from "react-native-elements"
 
@@ -84,7 +85,7 @@ export default class LoanCalculator extends Component {
     const {formData, correctness, calcData} = _this.state
 
     return (
-      <View style={styles.container}>
+      <ScrollView style={styles.container} keyboardDismissMode="on-drag">
         <View style={styles.form}>
           <View>
           <FormLabel>您上月度平均工资(元)</FormLabel>
@@ -195,7 +196,7 @@ export default class LoanCalculator extends Component {
             </View>
           </View>
         </View>
-      </View>
+      </ScrollView>
     );
   }
 }

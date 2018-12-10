@@ -95,11 +95,11 @@ const styles = StyleSheet.create({
     width: "100%",
   },
   name: {
-    marginBottom: 5,
+    marginBottom: 10,
+    fontSize: 18,
   },
   address: {
     marginBottom: 5,
-    fontSize: 12,
   }
 });
 

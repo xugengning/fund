@@ -70,7 +70,7 @@ export default class PolicyRule extends Component {
                 roundAvatar
                 key={index}
                 onPress={async () => {
-                  const historyData = await this.retrieveData("history") || []
+                  const historyData = await this.retrieveData("history") || "[]"
 
                   const newArr = JSON.parse(historyData)
 

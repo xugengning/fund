@@ -150,6 +150,7 @@ export default class HomePage extends Component {
 
     HttpUtils.get(url)
       .then((res) => {
+        console.log(res);
         if (res.ERRORCODE == "0") {
           _this.setState({
             houseData: res.RESULT.houses_info,
@@ -162,6 +163,9 @@ export default class HomePage extends Component {
           })
         }
 
+      })
+      .catch((res) => {
+        console.log(res);
       })
   }
 

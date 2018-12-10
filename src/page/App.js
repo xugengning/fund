@@ -22,6 +22,8 @@ import PolicyRule from './newsPage/PolicyRule'
 import MyFund from './myPage/MyFund'
 import History from './myPage/History'
 import Save from './myPage/Save'
+import Private from './myPage/Private'
+import Register from './myPage/Register'
 import HistoryDetail from './myPage/HistoryDetail'
 import SecurityCalculator from './security/SecurityCalculator'
 import Location from './location/Location'
@@ -34,7 +36,7 @@ const HomeStack = createStackNavigator({
   Home: {
     screen: HomePage,
     navigationOptions: {
-      title: "首页"
+      title: "首页",
     }
   },
   MyWebView: {
@@ -157,11 +159,23 @@ const HomeStack = createStackNavigator({
       title: "楼盘详情"
     }
   },
+  Private: {
+    screen: Private,
+    navigationOptions: {
+      title: "隐私协议"
+    }
+  },
+  Register: {
+    screen: Register,
+    navigationOptions: {
+      title: "注册协议"
+    }
+  },
 }, {
   initialRouteName: "Home",
   defaultNavigationOptions: {
     headerStyle: {
-      backgroundColor: "#4a98f0",
+      backgroundColor: "#26a2ff",
     },
     headerTintColor: "#f5f5f5",
     headerBackTitle: null

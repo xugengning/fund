@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import {
   StyleSheet,
   View,
+  ScrollView,
   AsyncStorage,
   ActivityIndicator
 } from 'react-native';
@@ -75,10 +76,17 @@ export default class HomePage extends Component {
         console.log(res);
         if (res.status == '1') {
           _this.getFundData(token)
-        } else {
+        } else if (res.status == "400") {
           setTimeout(() => {
             _this.checkState(token)
           }, 5000)
+        }
+        else {
+          this.setState({
+            loadingState: false
+          })
+
+          alert(res.desc)
         }
       })
   }
@@ -97,8 +105,8 @@ export default class HomePage extends Component {
 
     HttpUtils.get(`${shujuHost}getData?appKey=${appKey}&token=${token}`)
       .then((res) => {
+        console.log(res);
         if (res.data) {
-          console.log(res.data);
           this.storeData("fundInfo", JSON.stringify(res.data))
 
           this.setState({
@@ -108,12 +116,17 @@ export default class HomePage extends Component {
           this.props.navigation.navigate('FundInfo', {
             fundData: res.data
           })
-        } else {
+        } else if (res.status == "206") {
           setTimeout(() => {
             _this.getFundData(token)
           }, 1000)
+        } else {
+          this.setState({
+            loadingState: false
+          })
+
+          alert(res.desc)
         }
-        console.log(res);
       })
   }
 
@@ -134,7 +147,7 @@ export default class HomePage extends Component {
     const _this = this
 
     return (
-      <View style={styles.container}>
+      <ScrollView style={styles.container} keyboardDismissMode="on-drag">
         {
           !loadingState ? <View>
             <View style={styles.btnGroup}>
@@ -182,7 +195,7 @@ export default class HomePage extends Component {
             <ActivityIndicator animating={true} size="large" color="#4a98f0"/>
           </View>
         }
-      </View>
+      </ScrollView>
     );
   }
 }

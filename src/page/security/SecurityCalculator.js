@@ -460,7 +460,7 @@ export default class SecurityCalculator extends Component {
     const {selectedIndex, btnGroup, formData} = this.state
 
     return (
-      <ScrollView style={styles.container}>
+      <ScrollView style={styles.container} keyboardDismissMode="on-drag">
         <View style={styles.btnGroup}>
           <ButtonGroup
             onPress={_this.updateIndex}

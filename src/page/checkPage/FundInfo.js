@@ -26,6 +26,8 @@ export default class HomePage extends Component {
 
     console.log(fundData);
 
+    fundData.bill_record = fundData.bill_record.reverse()
+
     this.setState({
       fundData
     })
@@ -35,7 +37,6 @@ export default class HomePage extends Component {
     let {fundData, eyeClose} = this.state
     let {base_info, bill_record} = fundData
 
-    bill_record.reverse()
     console.log(bill_record);
 
     return (
@@ -79,8 +80,8 @@ export default class HomePage extends Component {
           {
             bill_record.map((item, index) => {
               return (
-                <View>
-                  <View style={styles.item} key={index}>
+                <View key={index}>
+                  <View style={styles.item}>
                     <View style={styles.leftActions}>
                       <Text>{item.deal_time}</Text>
                       <Text style={{marginLeft: 10,}}>{item.desc}</Text>

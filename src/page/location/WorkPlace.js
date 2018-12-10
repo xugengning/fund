@@ -95,7 +95,8 @@ const styles = StyleSheet.create({
     display: "flex",
     width: "25%",
     padding: 10,
-    textAlign: "center"
+    textAlign: "center",
+    fontSize: 14,
   },
   word: {
     marginBottom: 10,
@@ -103,10 +104,11 @@ const styles = StyleSheet.create({
   },
   name: {
     marginBottom: 5,
+    fontSize: 16,
   },
   address: {
     marginBottom: 5,
-    fontSize: 12,
+    fontSize: 14,
   }
 });
 

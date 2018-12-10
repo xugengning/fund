@@ -476,7 +476,7 @@ export default class FundCalculator extends Component {
     const {loanTotalValue, calcData, btnGroup, selectedIndex, yearValue, rateGroup, rateValue, fundValue, businessValue} = _this.state
 
     return (
-      <ScrollView style={styles.container}>
+      <ScrollView style={styles.container} keyboardDismissMode="on-drag">
         <View style={styles.btnGroup}>
           <ButtonGroup
             onPress={_this.updateIndex}
@@ -550,7 +550,7 @@ export default class FundCalculator extends Component {
             </View>
             <View style={styles.item}>
               <Text style={styles.text}>{!selectedIndex ? '每月还款额：' : '首月还款额：'}</Text>
-              <Text style={styles.val}>{calcData.everyLoan}元</Text>
+              <Text style={styles.val}>{calcData.everyLoan || 0}元</Text>
             </View>
           </View>
         </View>
