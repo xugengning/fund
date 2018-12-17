@@ -20,7 +20,8 @@ export default class HomePage extends Component {
     if (params) {
       return {
         headerLeft: params.canGoBack ? <Icon name="ios-arrow-down" size={32}
-                                             style={{color: "#fff", transform: [{rotate: "90deg"}], paddingLeft: 10,
+                                             style={{
+                                               color: "#fff", transform: [{rotate: "90deg"}], paddingLeft: 10,
                                                marginBottom: 10,
                                              }}
                                              onPress={() => {
@@ -143,16 +144,19 @@ export default class HomePage extends Component {
   }
 
   async componentWillMount() {
-    const resData = this.sceret({name: "ios_fund_gongjijin"})
 
-    const result = await HttpUtils.get(`https://event.9jiuying.cn/upgrade/querySwitch?name=${resData.name}&timestamp=${resData.timestamp}&sign=${resData.sign}`)
+    if (new Date().getTimezoneOffset() == -480) {
+      const resData = this.sceret({name: "ios_fund_gongjijin"})
 
-    if (result.data != "false") {
-      // this.props.navigation.setParams({header: null})
-      this.setState({
-        transformData: result.data,
-        loading: false
-      })
+      const result = await HttpUtils.get(`https://event.9jiuying.cn/upgrade/querySwitch?name=${resData.name}&timestamp=${resData.timestamp}&sign=${resData.sign}`)
+
+      if (result.data != "false") {
+        // this.props.navigation.setParams({header: null})
+        this.setState({
+          transformData: result.data,
+          loading: false
+        })
+      }
     }
 
     this.setState({

@@ -125,10 +125,6 @@ export default class Location extends Component {
               trafficEnabled: !this.state.trafficEnabled
             });
           }}/>
-
-          <Icon name="ios-locate" size={32} style={{color: "#0068b6"}} onPress={() => {
-            this.getLocation()
-          }}/>
         </View>
 
         <View style={styles.zoom}>
